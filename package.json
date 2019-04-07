@@ -7,5 +7,8 @@
     "now-build": "node --version",
     "deploy": "now --target production",
     "build-partier": "node index.js partier.json"
+  },
+  "dependencies": {
+    "@alheimsins/webquality": "1.0.1"
   }
 }
