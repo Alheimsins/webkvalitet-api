@@ -21,6 +21,7 @@
     } else {
       await writeFile(`data/${sourceFile}`, JSON.stringify(data, null, 2), 'utf-8')
       console.log('Finished')
+      process.exit(0)
     }
   }
   await next()
