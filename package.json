@@ -1,0 +1,11 @@
+{
+  "name": "webkvalitet-api",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "now-build": "node --version",
+    "deploy": "now --target production",
+    "build-partier": "node index.js partier.json"
+  }
+}
