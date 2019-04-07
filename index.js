@@ -16,7 +16,7 @@
       const result = await wq(page.url)
       console.log(`Finished checking: ${page.name}`)
       page.result = result
-      data.push(page) 
+      data.push(page)
       await next()
     } else {
       await writeFile(`data/${sourceFile}`, JSON.stringify(data, null, 2), 'utf-8')

@@ -6,9 +6,21 @@
   "scripts": {
     "now-build": "node --version",
     "deploy": "now --target production",
-    "build-partier": "node index.js partier.json"
+    "build-partier": "node index.js partier.json",
+    "test": "standard && npm audit && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "dependencies": {
     "@alheimsins/webquality": "1.0.1"
+  },
+  "devDependencies": {
+    "ava": "1.4.1",
+    "coveralls": "3.0.3",
+    "nyc": "13.3.0",
+    "standard": "12.0.1"
   }
 }
