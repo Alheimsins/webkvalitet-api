@@ -14,11 +14,17 @@ action "Build partier" {
   needs = ["Install dependencies"]
 }
 
+action "Build fylker" {
+  uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
+  args = "run build-fylker"
+  needs = ["Build partier"]
+}
+
 action "Deploy to now" {
   uses = "actions/zeit-now@666edee2f3632660e9829cb6801ee5b7d47b303d"
   args = "--team alheimsins"
   secrets = ["ZEIT_TOKEN"]
-  needs = ["Build partier"]
+  needs = ["Build fylker"]
 }
 
 action "Alias deployment" {
