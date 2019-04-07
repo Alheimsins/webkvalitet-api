@@ -14,6 +14,8 @@ $ npm run build-partier
 
 # Deploy
 
+Deploys to ZEIT/Now
+
 ```
 $ npm run deploy
 ```
