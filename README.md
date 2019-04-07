@@ -7,12 +7,26 @@ API for webquality
 
 [webkvalitet.api.alheimsins.net](https://webkvalitet.api.alheimsins.net)
 
+# API
+
+## ```GET /partier```
+
+The results for all the political parties
+
+## ```GET /fylker```
+
+The results for all the county councils
+
 # Update
 
 Run the scripts
 
 ```
 $ npm run build-partier
+```
+
+```
+$ npm run build-fylker
 ```
 
 # Deploy
