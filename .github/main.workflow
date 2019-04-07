@@ -1,6 +1,6 @@
 workflow "Rebuild every day" {
   resolves = ["Alias deployment"]
-  on = "push"
+  on = "schedule(0 0 * * *)"
 }
 
 action "Install dependencies" {
