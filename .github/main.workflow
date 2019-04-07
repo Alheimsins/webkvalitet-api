@@ -1,6 +1,6 @@
 workflow "Rebuild every day" {
-  on = "schedule(0 1 * * *)"
   resolves = ["Alias deployment"]
+  on = "push"
 }
 
 action "Build partier" {
