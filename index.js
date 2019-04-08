@@ -21,9 +21,13 @@
         await next()
       } catch (error) {
         console.error(`Failed checking: ${page.name} - ${error}`)
-        page.retries = !page.retries ? 0 : page.retries++
+        if (page.hasOwnProperty('retries')) {
+          page.retries = page.retries + 1
+        } else {
+          page.retries = 0
+        }
         if (page.retries < 3) {
-          console.log(`Adds ${page.name} to retry`)
+          console.log(`Adds ${page.name} to retry - retries ${page.retries}`)
           // Adds page back in the queue
           pages.unshift(page)
         } else {
