@@ -9,6 +9,10 @@ API for webquality
 
 # API
 
+## ```GET /directorater```
+
+The results for all the agencies
+
 ## ```GET /partier```
 
 The results for all the political parties
@@ -20,6 +24,10 @@ The results for all the county councils
 # Update
 
 Run the scripts
+
+```
+$ npm run build-direktorater
+```
 
 ```
 $ npm run build-partier

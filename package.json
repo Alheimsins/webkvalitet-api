@@ -6,6 +6,7 @@
   "scripts": {
     "now-build": "node --version",
     "deploy": "now --target production",
+    "build-direktorater": "node index.js direktorater.json",
     "build-partier": "node index.js partier.json",
     "build-fylker": "node index.js fylker.json",
     "test": "standard && npm audit && ava",
