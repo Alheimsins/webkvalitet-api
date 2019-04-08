@@ -23,8 +23,11 @@
         console.error(`Failed checking: ${page.name} - ${error}`)
         page.retries = !page.retries ? 0 : page.retries++
         if (page.retries < 3) {
+          console.log(`Adds ${page.name} to retry`)
           // Adds page back in the queue
           pages.unshift(page)
+        } else {
+          console.log(`Skips ${page.name} - retried ${page.retries} times`)
         }
         await next()
       }
