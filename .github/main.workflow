@@ -48,7 +48,7 @@ workflow "Updates direktorater" {
   on = "schedule(0 1 * * *)"
 }
 
-action "Install dependencies" {
+action "Install dependencies for direktorater" {
   uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
   args = "install"
 }
@@ -56,26 +56,26 @@ action "Install dependencies" {
 action "Build direktorater" {
   uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
   args = "run build-direktorater"
-  needs = ["Install dependencies"]
+  needs = ["Install dependencies for direktorater"]
 }
 
-action "Deploy to now" {
+action "Deploy direktorater to now" {
   uses = "actions/zeit-now@666edee2f3632660e9829cb6801ee5b7d47b303d"
   args = "--team alheimsins"
   secrets = ["ZEIT_TOKEN"]
   needs = ["Build direktorater"]
 }
 
-action "Alias deployment" {
+action "Alias deployment direktorater" {
   uses = "actions/zeit-now@666edee2f3632660e9829cb6801ee5b7d47b303d"
-  needs = ["Deploy to now"]
+  needs = ["Deploy direktorater to now"]
   args = "alias --team alheimsins"
   secrets = ["ZEIT_TOKEN"]
 }
 
 action "Auto-commit direktorater" {
   uses = "docker://cdssnc/auto-commit-github-action"
-  needs = ["Alias deployment"]
+  needs = ["Alias deployment direktorater"]
   args = "Data updated"
   secrets = ["GITHUB_TOKEN"]
 }
