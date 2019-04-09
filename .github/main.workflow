@@ -1,4 +1,4 @@
-workflow "Updates data every day" {
+workflow "Updates partier and fylker" {
   resolves = ["Auto-commit"]
   on = "schedule(0 0 * * *)"
 }
@@ -43,8 +43,8 @@ action "Auto-commit" {
 
 # Flow for direktorater
 
-workflow "Updates data for direktorater every day" {
-  resolves = ["Auto-commit direktorater"]
+workflow "Updates direktorater" {
+  resolves = ["Auto-commit"]
   on = "schedule(0 1 * * *)"
 }
 
@@ -73,7 +73,7 @@ action "Alias deployment" {
   secrets = ["ZEIT_TOKEN"]
 }
 
-action "Auto-commit direktorater" {
+action "Auto-commit" {
   uses = "docker://cdssnc/auto-commit-github-action"
   needs = ["Alias deployment"]
   args = "Data updated"
