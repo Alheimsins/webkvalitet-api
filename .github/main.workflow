@@ -44,7 +44,7 @@ action "Auto-commit" {
 # Flow for direktorater
 
 workflow "Updates direktorater" {
-  resolves = ["Auto-commit"]
+  resolves = ["Auto-commit direktorater"]
   on = "schedule(0 1 * * *)"
 }
 
@@ -73,7 +73,7 @@ action "Alias deployment" {
   secrets = ["ZEIT_TOKEN"]
 }
 
-action "Auto-commit" {
+action "Auto-commit direktorater" {
   uses = "docker://cdssnc/auto-commit-github-action"
   needs = ["Alias deployment"]
   args = "Data updated"
