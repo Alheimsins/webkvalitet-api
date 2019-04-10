@@ -20,11 +20,17 @@ action "Build fylker" {
   needs = ["Build partier"]
 }
 
+action "Build direktorater" {
+  uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
+  args = "run build-direktorater"
+  needs = ["Build fylker"]
+}
+
 action "Deploy to now" {
   uses = "actions/zeit-now@666edee2f3632660e9829cb6801ee5b7d47b303d"
   args = "--team alheimsins"
   secrets = ["ZEIT_TOKEN"]
-  needs = ["Build fylker"]
+  needs = ["Build direktorater"]
 }
 
 action "Alias deployment" {
@@ -37,45 +43,6 @@ action "Alias deployment" {
 action "Auto-commit" {
   uses = "docker://cdssnc/auto-commit-github-action"
   needs = ["Alias deployment"]
-  args = "Data updated"
-  secrets = ["GITHUB_TOKEN"]
-}
-
-# Flow for direktorater
-
-workflow "Updates direktorater" {
-  resolves = ["Auto-commit direktorater"]
-  on = "schedule(0 1 * * *)"
-}
-
-action "Install dependencies for direktorater" {
-  uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
-  args = "install"
-}
-
-action "Build direktorater" {
-  uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
-  args = "run build-direktorater"
-  needs = ["Install dependencies for direktorater"]
-}
-
-action "Deploy direktorater to now" {
-  uses = "actions/zeit-now@666edee2f3632660e9829cb6801ee5b7d47b303d"
-  args = "--team alheimsins"
-  secrets = ["ZEIT_TOKEN"]
-  needs = ["Build direktorater"]
-}
-
-action "Alias deployment direktorater" {
-  uses = "actions/zeit-now@666edee2f3632660e9829cb6801ee5b7d47b303d"
-  needs = ["Deploy direktorater to now"]
-  args = "alias --team alheimsins"
-  secrets = ["ZEIT_TOKEN"]
-}
-
-action "Auto-commit direktorater" {
-  uses = "docker://cdssnc/auto-commit-github-action"
-  needs = ["Alias deployment direktorater"]
   args = "Data updated"
   secrets = ["GITHUB_TOKEN"]
 }
