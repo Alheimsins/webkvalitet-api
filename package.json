@@ -9,6 +9,7 @@
     "build-direktorater": "node index.js direktorater.json",
     "build-partier": "node index.js partier.json",
     "build-fylker": "node index.js fylker.json",
+    "build-smartbyer": "node index.js smartbyer.json",
     "test": "standard && npm audit && ava",
     "test-offline": "standard && ava",
     "coverage": "nyc ava",
