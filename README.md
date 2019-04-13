@@ -9,7 +9,7 @@ API for webquality
 
 # API
 
-## ```GET /directorater```
+## ```GET /direktorater```
 
 The results for all the agencies
 
@@ -20,6 +20,10 @@ The results for all the political parties
 ## ```GET /fylker```
 
 The results for all the county councils
+
+## ```GET /smartbyer```
+
+The results for all the smart citie
 
 # Update
 
@@ -35,6 +39,10 @@ $ npm run build-partier
 
 ```
 $ npm run build-fylker
+```
+
+```
+$ npm run build-smartbyer
 ```
 
 # Deploy
