@@ -1,4 +1,4 @@
-workflow "Updates partier and fylker" {
+workflow "Updates data" {
   resolves = ["Auto-commit"]
   on = "schedule(0 0 * * *)"
 }
@@ -47,7 +47,7 @@ action "Alias deployment" {
 }
 
 action "Commit changes" {
-  uses = "./github-actions/commit-changes"
+  uses = "./commit-changes"
   needs = ["Alias deployment"]
   args = "Data updated"
   secrets = ["GITHUB_TOKEN"]
