@@ -1,5 +1,5 @@
 workflow "Updates data" {
-  resolves = ["Auto-commit"]
+  resolves = ["Commit changes"]
   on = "schedule(0 0 * * *)"
 }
 
@@ -47,7 +47,7 @@ action "Alias deployment" {
 }
 
 action "Commit changes" {
-  uses = "./commit-changes"
+  uses = "./github-actions/commit-changes"
   needs = ["Alias deployment"]
   args = "Data updated"
   secrets = ["GITHUB_TOKEN"]
