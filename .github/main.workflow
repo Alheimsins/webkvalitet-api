@@ -46,8 +46,8 @@ action "Alias deployment" {
   secrets = ["ZEIT_TOKEN"]
 }
 
-action "Auto-commit" {
-  uses = "docker://cdssnc/auto-commit-github-action"
+action "Commit changes" {
+  uses = "./github-action/commit-changes"
   needs = ["Alias deployment"]
   args = "Data updated"
   secrets = ["GITHUB_TOKEN"]
