@@ -10,7 +10,7 @@
     "build-partier": "node index.js partier.json",
     "build-fylker": "node index.js fylker.json",
     "build-smartbyer": "node index.js smartbyer.json",
-    "test": "standard && npm audit && ava",
+    "test": "standard && ava",
     "test-offline": "standard && ava",
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
