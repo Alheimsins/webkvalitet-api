@@ -1,15 +1,55 @@
 [
   {
-    "name": "Vegdirektoratet",
-    "id": "vegvesen",
-    "url": "https://www.vegvesen.no",
-    "date": "2019-04-22T00:11:03.455Z",
-    "timeStamp": 1555891863455,
+    "name": "Vegtilsynet",
+    "id": "vegtilsynet",
+    "url": "http://www.vegtilsynet.com",
+    "date": "2019-04-23T00:10:14.517Z",
+    "timeStamp": 1555978214517,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 99
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 60,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 85
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 90,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "observatory",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
+      }
+    ]
+  },
+  {
+    "name": "Vegdirektoratet",
+    "id": "vegvesen",
+    "url": "https://www.vegvesen.no",
+    "date": "2019-04-23T00:10:21.892Z",
+    "timeStamp": 1555978221892,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 70
       },
       {
         "id": "accessibility",
@@ -43,13 +83,13 @@
     "name": "Valgdirektoratet",
     "id": "valg",
     "url": "https://www.valg.no",
-    "date": "2019-04-22T00:11:19.884Z",
-    "timeStamp": 1555891879884,
+    "date": "2019-04-23T00:10:34.748Z",
+    "timeStamp": 1555978234748,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 86
+        "score": 87
       },
       {
         "id": "accessibility",
@@ -80,16 +120,56 @@
     ]
   },
   {
-    "name": "Utdanningsdirektoratet",
-    "id": "udir",
-    "url": "https://www.udir.no",
-    "date": "2019-04-22T00:11:39.401Z",
-    "timeStamp": 1555891899401,
+    "name": "Utlendingsdirektoratet",
+    "id": "udi",
+    "url": "https://www.udi.no",
+    "date": "2019-04-23T00:10:43.808Z",
+    "timeStamp": 1555978243808,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 88
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 88,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 85
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 91,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "observatory",
+        "title": "Security",
+        "score": 75,
+        "grade": "B-",
+        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
+      }
+    ]
+  },
+  {
+    "name": "Utdanningsdirektoratet",
+    "id": "udir",
+    "url": "https://www.udir.no",
+    "date": "2019-04-23T00:10:52.806Z",
+    "timeStamp": 1555978252806,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 72
       },
       {
         "id": "accessibility",
@@ -123,13 +203,13 @@
     "name": "Tolldirektoratet",
     "id": "toll",
     "url": "https://www.toll.no",
-    "date": "2019-04-22T00:11:54.789Z",
-    "timeStamp": 1555891914789,
+    "date": "2019-04-23T00:11:08.950Z",
+    "timeStamp": 1555978268950,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 54
+        "score": 51
       },
       {
         "id": "accessibility",
@@ -163,13 +243,13 @@
     "name": "Statistisk sentralbyrå",
     "id": "ssb",
     "url": "https://www.ssb.no",
-    "date": "2019-04-22T00:12:06.056Z",
-    "timeStamp": 1555891926056,
+    "date": "2019-04-23T00:11:22.607Z",
+    "timeStamp": 1555978282607,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 44
+        "score": 47
       },
       {
         "id": "accessibility",
@@ -203,13 +283,13 @@
     "name": "Statens strålevern",
     "id": "nrpa",
     "url": "https://www.nrpa.no",
-    "date": "2019-04-22T00:12:19.424Z",
-    "timeStamp": 1555891939424,
+    "date": "2019-04-23T00:11:38.689Z",
+    "timeStamp": 1555978298689,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 58
+        "score": 56
       },
       {
         "id": "accessibility",
@@ -243,13 +323,13 @@
     "name": "Statens sivilrettsforvaltning",
     "id": "sivilrett",
     "url": "https://www.sivilrett.no",
-    "date": "2019-04-22T00:12:35.143Z",
-    "timeStamp": 1555891955143,
+    "date": "2019-04-23T00:11:55.837Z",
+    "timeStamp": 1555978315837,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 88
+        "score": 90
       },
       {
         "id": "accessibility",
@@ -283,13 +363,13 @@
     "name": "Statens legemiddelverk",
     "id": "legemiddelverket",
     "url": "https://legemiddelverket.no",
-    "date": "2019-04-22T00:12:46.739Z",
-    "timeStamp": 1555891966739,
+    "date": "2019-04-23T00:12:09.363Z",
+    "timeStamp": 1555978329363,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 36
+        "score": 40
       },
       {
         "id": "accessibility",
@@ -323,13 +403,13 @@
     "name": "Statens kartverk",
     "id": "kartverket",
     "url": "https://www.kartverket.no",
-    "date": "2019-04-22T00:13:05.271Z",
-    "timeStamp": 1555891985271,
+    "date": "2019-04-23T00:12:22.891Z",
+    "timeStamp": 1555978342891,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 44
+        "score": 45
       },
       {
         "id": "accessibility",
@@ -363,8 +443,8 @@
     "name": "Statens jernbanetilsyn",
     "id": "sjt",
     "url": "https://www.sjt.no",
-    "date": "2019-04-22T00:13:22.880Z",
-    "timeStamp": 1555892002880,
+    "date": "2019-04-23T00:12:35.192Z",
+    "timeStamp": 1555978355192,
     "result": [
       {
         "id": "performance",
@@ -403,8 +483,8 @@
     "name": "Statens helsetilsyn",
     "id": "helsetilsynet",
     "url": "https://www.helsetilsynet.no",
-    "date": "2019-04-22T00:13:37.359Z",
-    "timeStamp": 1555892017359,
+    "date": "2019-04-23T00:12:46.215Z",
+    "timeStamp": 1555978366215,
     "result": [
       {
         "id": "performance",
@@ -443,13 +523,13 @@
     "name": "Statens havarikommisjon for transport",
     "id": "aibn",
     "url": "https://www.aibn.no",
-    "date": "2019-04-22T00:13:54.129Z",
-    "timeStamp": 1555892034129,
+    "date": "2019-04-23T00:12:58.351Z",
+    "timeStamp": 1555978378351,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 75
+        "score": 79
       },
       {
         "id": "accessibility",
@@ -483,8 +563,8 @@
     "name": "Skattedirektoratet",
     "id": "skatteetaten",
     "url": "https://www.skatteetaten.no",
-    "date": "2019-04-22T00:14:09.387Z",
-    "timeStamp": 1555892049387,
+    "date": "2019-04-23T00:13:08.985Z",
+    "timeStamp": 1555978388985,
     "result": [
       {
         "id": "performance",
@@ -523,13 +603,13 @@
     "name": "Sjøfartsdirektoratet",
     "id": "sjofartsdir",
     "url": "https://www.sjofartsdir.no",
-    "date": "2019-04-22T00:14:23.157Z",
-    "timeStamp": 1555892063157,
+    "date": "2019-04-23T00:13:21.090Z",
+    "timeStamp": 1555978401090,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 48
+        "score": 46
       },
       {
         "id": "accessibility",
@@ -563,13 +643,13 @@
     "name": "Riksantikvaren",
     "id": "riksantikvaren",
     "url": "https://www.riksantikvaren.no",
-    "date": "2019-04-22T00:14:42.632Z",
-    "timeStamp": 1555892082632,
+    "date": "2019-04-23T00:13:37.697Z",
+    "timeStamp": 1555978417697,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 86
+        "score": 85
       },
       {
         "id": "accessibility",
@@ -603,13 +683,13 @@
     "name": "Politidirektoratet",
     "id": "politi",
     "url": "https://www.politi.no",
-    "date": "2019-04-22T00:15:00.768Z",
-    "timeStamp": 1555892100768,
+    "date": "2019-04-23T00:13:50.628Z",
+    "timeStamp": 1555978430628,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 63
+        "score": 61
       },
       {
         "id": "accessibility",
@@ -643,13 +723,13 @@
     "name": "Petroleumstilsynet",
     "id": "ptil",
     "url": "http://www.ptil.no",
-    "date": "2019-04-22T00:15:15.208Z",
-    "timeStamp": 1555892115208,
+    "date": "2019-04-23T00:14:06.601Z",
+    "timeStamp": 1555978446601,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 66
+        "score": 63
       },
       {
         "id": "accessibility",
@@ -683,13 +763,13 @@
     "name": "Pensjonstrygden for sjømenn",
     "id": "pts",
     "url": "https://www.pts.no",
-    "date": "2019-04-22T00:15:32.205Z",
-    "timeStamp": 1555892132205,
+    "date": "2019-04-23T00:14:20.252Z",
+    "timeStamp": 1555978460252,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 52
+        "score": 51
       },
       {
         "id": "accessibility",
@@ -723,13 +803,13 @@
     "name": "Patentstyret",
     "id": "patentstyret",
     "url": "https://www.patentstyret.no",
-    "date": "2019-04-22T00:15:47.308Z",
-    "timeStamp": 1555892147308,
+    "date": "2019-04-23T00:14:30.430Z",
+    "timeStamp": 1555978470430,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 89
+        "score": 90
       },
       {
         "id": "accessibility",
@@ -763,13 +843,13 @@
     "name": "Oljedirektoratet",
     "id": "npd",
     "url": "https://www.npd.no",
-    "date": "2019-04-22T00:16:06.316Z",
-    "timeStamp": 1555892166316,
+    "date": "2019-04-23T00:14:41.814Z",
+    "timeStamp": 1555978481814,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 31
+        "score": 37
       },
       {
         "id": "accessibility",
@@ -803,13 +883,13 @@
     "name": "Norsk polarinstitutt",
     "id": "npolar",
     "url": "https://npolar.no",
-    "date": "2019-04-22T00:16:23.636Z",
-    "timeStamp": 1555892183636,
+    "date": "2019-04-23T00:14:53.996Z",
+    "timeStamp": 1555978493996,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 7
+        "score": 6
       },
       {
         "id": "accessibility",
@@ -843,13 +923,13 @@
     "name": "Norsk pasientskadeerstatning",
     "id": "npe",
     "url": "https://www.npe.no",
-    "date": "2019-04-22T00:16:44.085Z",
-    "timeStamp": 1555892204085,
+    "date": "2019-04-23T00:15:17.238Z",
+    "timeStamp": 1555978517238,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 60
+        "score": 67
       },
       {
         "id": "accessibility",
@@ -883,8 +963,8 @@
     "name": "Norsk kulturråd",
     "id": "kulturrad",
     "url": "https://www.kulturradet.no",
-    "date": "2019-04-22T00:16:59.634Z",
-    "timeStamp": 1555892219634,
+    "date": "2019-04-23T00:15:34.507Z",
+    "timeStamp": 1555978534507,
     "result": [
       {
         "id": "performance",
@@ -923,13 +1003,13 @@
     "name": "Norsk filminstitutt",
     "id": "nfi",
     "url": "https://www.nfi.no",
-    "date": "2019-04-22T00:17:28.911Z",
-    "timeStamp": 1555892248911,
+    "date": "2019-04-23T00:16:03.948Z",
+    "timeStamp": 1555978563948,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 74
+        "score": 77
       },
       {
         "id": "accessibility",
@@ -963,13 +1043,13 @@
     "name": "Norsk akkreditering",
     "id": "akkreditert",
     "url": "https://www.akkreditert.no",
-    "date": "2019-04-22T00:17:43.953Z",
-    "timeStamp": 1555892263953,
+    "date": "2019-04-23T00:16:16.068Z",
+    "timeStamp": 1555978576068,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 68
+        "score": 69
       },
       {
         "id": "accessibility",
@@ -1003,13 +1083,13 @@
     "name": "Norges vassdrags- og energidirektorat",
     "id": "nve",
     "url": "https://www.nve.no",
-    "date": "2019-04-22T00:17:59.400Z",
-    "timeStamp": 1555892279400,
+    "date": "2019-04-23T00:16:26.938Z",
+    "timeStamp": 1555978586938,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 45
+        "score": 44
       },
       {
         "id": "accessibility",
@@ -1043,13 +1123,13 @@
     "name": "Nasjonalt organ for kvalitet i utdanningen",
     "id": "nokut",
     "url": "https://www.nokut.no",
-    "date": "2019-04-22T00:18:23.533Z",
-    "timeStamp": 1555892303533,
+    "date": "2019-04-23T00:16:45.837Z",
+    "timeStamp": 1555978605837,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 66
+        "score": 71
       },
       {
         "id": "accessibility",
@@ -1083,13 +1163,13 @@
     "name": "Nasjonal sikkerhetsmyndighet",
     "id": "nsmstat",
     "url": "https://www.nsm.stat.no",
-    "date": "2019-04-22T00:18:38.636Z",
-    "timeStamp": 1555892318636,
+    "date": "2019-04-23T00:16:55.450Z",
+    "timeStamp": 1555978615450,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 77
+        "score": 81
       },
       {
         "id": "accessibility",
@@ -1123,13 +1203,13 @@
     "name": "Nasjonal kommunikasjonsmyndighet",
     "id": "nkom",
     "url": "https://www.nkom.no",
-    "date": "2019-04-22T00:18:54.203Z",
-    "timeStamp": 1555892334203,
+    "date": "2019-04-23T00:17:10.752Z",
+    "timeStamp": 1555978630752,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 90
+        "score": 92
       },
       {
         "id": "accessibility",
@@ -1163,13 +1243,13 @@
     "name": "Miljødirektoratet",
     "id": "miljodir",
     "url": "https://www.miljodir.no",
-    "date": "2019-04-22T00:19:07.515Z",
-    "timeStamp": 1555892347515,
+    "date": "2019-04-23T00:17:29.002Z",
+    "timeStamp": 1555978649002,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 13
+        "score": 14
       },
       {
         "id": "accessibility",
@@ -1203,13 +1283,13 @@
     "name": "Medietilsynet",
     "id": "medietilsynet",
     "url": "https://www.medietilsynet.no",
-    "date": "2019-04-22T00:19:27.544Z",
-    "timeStamp": 1555892367544,
+    "date": "2019-04-23T00:17:46.112Z",
+    "timeStamp": 1555978666112,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 88
+        "score": 85
       },
       {
         "id": "accessibility",
@@ -1243,13 +1323,13 @@
     "name": "Mattilsynet",
     "id": "mattilsynet",
     "url": "https://www.mattilsynet.no",
-    "date": "2019-04-22T00:19:41.641Z",
-    "timeStamp": 1555892381641,
+    "date": "2019-04-23T00:17:59.865Z",
+    "timeStamp": 1555978679865,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 91
+        "score": 90
       },
       {
         "id": "accessibility",
@@ -1283,13 +1363,13 @@
     "name": "Luftfartstilsynet",
     "id": "luftfartstilsynet",
     "url": "https://www.luftfartstilsynet.no",
-    "date": "2019-04-22T00:19:59.560Z",
-    "timeStamp": 1555892399560,
+    "date": "2019-04-23T00:18:14.722Z",
+    "timeStamp": 1555978694722,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 60
       },
       {
         "id": "accessibility",
@@ -1323,13 +1403,13 @@
     "name": "Lotteri- og stiftelsestilsynet",
     "id": "lottstift",
     "url": "https://lottstift.no",
-    "date": "2019-04-22T00:20:22.675Z",
-    "timeStamp": 1555892422675,
+    "date": "2019-04-23T00:18:32.191Z",
+    "timeStamp": 1555978712191,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 74
+        "score": 84
       },
       {
         "id": "accessibility",
@@ -1363,13 +1443,13 @@
     "name": "Lånekassen",
     "id": "lanekassen",
     "url": "https://www.lanekassen.no",
-    "date": "2019-04-22T00:20:46.105Z",
-    "timeStamp": 1555892446105,
+    "date": "2019-04-23T00:18:46.230Z",
+    "timeStamp": 1555978726230,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 64
+        "score": 72
       },
       {
         "id": "accessibility",
@@ -1403,13 +1483,13 @@
     "name": "Landbruksdirektoratet",
     "id": "slfdep",
     "url": "https://www.slf.dep.no",
-    "date": "2019-04-22T00:20:56.124Z",
-    "timeStamp": 1555892456124,
+    "date": "2019-04-23T00:18:57.369Z",
+    "timeStamp": 1555978737369,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 27
+        "score": 28
       },
       {
         "id": "accessibility",
@@ -1443,8 +1523,8 @@
     "name": "Kystverket",
     "id": "kystverket",
     "url": "https://www.kystverket.no",
-    "date": "2019-04-22T00:21:20.200Z",
-    "timeStamp": 1555892480200,
+    "date": "2019-04-23T00:19:18.378Z",
+    "timeStamp": 1555978758378,
     "result": [
       {
         "id": "performance",
@@ -1483,8 +1563,8 @@
     "name": "Kunst i offentlige rom",
     "id": "koro",
     "url": "https://www.koro.no",
-    "date": "2019-04-22T00:21:45.764Z",
-    "timeStamp": 1555892505764,
+    "date": "2019-04-23T00:19:41.252Z",
+    "timeStamp": 1555978781252,
     "result": [
       {
         "id": "performance",
@@ -1523,13 +1603,13 @@
     "name": "Kulturtanken",
     "id": "kulturtanken",
     "url": "https://www.kulturtanken.no",
-    "date": "2019-04-22T00:22:09.993Z",
-    "timeStamp": 1555892529993,
+    "date": "2019-04-23T00:20:00.021Z",
+    "timeStamp": 1555978800021,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 28
+        "score": 21
       },
       {
         "id": "accessibility",
@@ -1563,13 +1643,13 @@
     "name": "Kriminalomsorgsdirektoratet",
     "id": "kriminalomsorgen",
     "url": "https://www.kriminalomsorgen.no",
-    "date": "2019-04-22T00:22:27.336Z",
-    "timeStamp": 1555892547336,
+    "date": "2019-04-23T00:20:16.327Z",
+    "timeStamp": 1555978816327,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 76
+        "score": 81
       },
       {
         "id": "accessibility",
@@ -1581,13 +1661,13 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 69
+        "score": 62
       },
       {
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 97,
+        "score": 98,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
@@ -1603,8 +1683,8 @@
     "name": "Konkurransetilsynet",
     "id": "konkurransetilsynet",
     "url": "https://www.konkurransetilsynet.no",
-    "date": "2019-04-22T00:22:41.566Z",
-    "timeStamp": 1555892561566,
+    "date": "2019-04-23T00:20:28.868Z",
+    "timeStamp": 1555978828868,
     "result": [
       {
         "id": "performance",
@@ -1643,13 +1723,13 @@
     "name": "Kompetanse Norge",
     "id": "kompetansenorge",
     "url": "https://www.kompetansenorge.no",
-    "date": "2019-04-22T00:22:57.475Z",
-    "timeStamp": 1555892577475,
+    "date": "2019-04-23T00:20:44.572Z",
+    "timeStamp": 1555978844572,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 74
+        "score": 71
       },
       {
         "id": "accessibility",
@@ -1683,13 +1763,13 @@
     "name": "Justervesenet",
     "id": "justervesenet",
     "url": "https://www.justervesenet.no",
-    "date": "2019-04-22T00:23:12.017Z",
-    "timeStamp": 1555892592017,
+    "date": "2019-04-23T00:20:56.572Z",
+    "timeStamp": 1555978856572,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 32
+        "score": 34
       },
       {
         "id": "accessibility",
@@ -1723,13 +1803,13 @@
     "name": "Jernbanedirektoratet",
     "id": "jernbanedirektoratet",
     "url": "https://www.jernbanedirektoratet.no",
-    "date": "2019-04-22T00:23:47.289Z",
-    "timeStamp": 1555892627289,
+    "date": "2019-04-23T00:21:17.476Z",
+    "timeStamp": 1555978877476,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 77
+        "score": 74
       },
       {
         "id": "accessibility",
@@ -1763,13 +1843,13 @@
     "name": "Integrerings- og mangfoldsdirektoratet",
     "id": "imdi",
     "url": "https://www.imdi.no",
-    "date": "2019-04-22T00:24:06.312Z",
-    "timeStamp": 1555892646312,
+    "date": "2019-04-23T00:21:33.948Z",
+    "timeStamp": 1555978893948,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 59
       },
       {
         "id": "accessibility",
@@ -1803,13 +1883,13 @@
     "name": "Husbanken",
     "id": "husbanken",
     "url": "https://www.husbanken.no",
-    "date": "2019-04-22T00:24:19.607Z",
-    "timeStamp": 1555892659607,
+    "date": "2019-04-23T00:21:46.517Z",
+    "timeStamp": 1555978906517,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 93
+        "score": 95
       },
       {
         "id": "accessibility",
@@ -1843,8 +1923,8 @@
     "name": "Helsedirektoratet",
     "id": "helsedirektoratet",
     "url": "https://helsedirektoratet.no",
-    "date": "2019-04-22T00:24:32.220Z",
-    "timeStamp": 1555892672220,
+    "date": "2019-04-23T00:21:58.181Z",
+    "timeStamp": 1555978918181,
     "result": [
       {
         "id": "performance",
@@ -1880,16 +1960,56 @@
     ]
   },
   {
-    "name": "Folkehelseinstituttet",
-    "id": "fhi",
-    "url": "https://www.fhi.no",
-    "date": "2019-04-22T00:25:02.599Z",
-    "timeStamp": 1555892702599,
+    "name": "Forbrukertilsynet",
+    "id": "forbrukertilsynet",
+    "url": "https://www.forbrukertilsynet.no",
+    "date": "2019-04-23T00:22:13.608Z",
+    "timeStamp": 1555978933608,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 51
+        "score": 78
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 100,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 85
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 92,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "observatory",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
+      }
+    ]
+  },
+  {
+    "name": "Folkehelseinstituttet",
+    "id": "fhi",
+    "url": "https://www.fhi.no",
+    "date": "2019-04-23T00:22:24.828Z",
+    "timeStamp": 1555978944828,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 49
       },
       {
         "id": "accessibility",
@@ -1923,13 +2043,13 @@
     "name": "Fiskeridirektoratet",
     "id": "fiskeridir",
     "url": "https://www.fiskeridir.no",
-    "date": "2019-04-22T00:25:20.583Z",
-    "timeStamp": 1555892720583,
+    "date": "2019-04-23T00:22:40.732Z",
+    "timeStamp": 1555978960732,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 25
+        "score": 22
       },
       {
         "id": "accessibility",
@@ -1963,13 +2083,13 @@
     "name": "Finanstilsynet",
     "id": "finanstilsynet",
     "url": "https://www.finanstilsynet.no",
-    "date": "2019-04-22T00:25:41.377Z",
-    "timeStamp": 1555892741377,
+    "date": "2019-04-23T00:23:01.466Z",
+    "timeStamp": 1555978981466,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 74
+        "score": 73
       },
       {
         "id": "accessibility",
@@ -2003,13 +2123,13 @@
     "name": "Direktoratet for utviklingssamarbeid",
     "id": "norad",
     "url": "https://www.norad.no",
-    "date": "2019-04-22T00:25:55.640Z",
-    "timeStamp": 1555892755640,
+    "date": "2019-04-23T00:23:16.802Z",
+    "timeStamp": 1555978996802,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 50
+        "score": 45
       },
       {
         "id": "accessibility",
@@ -2043,13 +2163,13 @@
     "name": "Direktoratet for samfunnssikkerhet og beredskap",
     "id": "dsb",
     "url": "https://www.dsb.no",
-    "date": "2019-04-22T00:26:15.147Z",
-    "timeStamp": 1555892775147,
+    "date": "2019-04-23T00:23:34.538Z",
+    "timeStamp": 1555979014538,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 77
+        "score": 67
       },
       {
         "id": "accessibility",
@@ -2083,13 +2203,13 @@
     "name": "Direktoratet for økonomistyring",
     "id": "dfo",
     "url": "https://www.dfo.no",
-    "date": "2019-04-22T00:26:31.865Z",
-    "timeStamp": 1555892791865,
+    "date": "2019-04-23T00:23:52.409Z",
+    "timeStamp": 1555979032409,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 38
+        "score": 36
       },
       {
         "id": "accessibility",
@@ -2123,13 +2243,13 @@
     "name": "Direktoratet for mineralforvaltning med Bergmesteren for Svalbard",
     "id": "dirmin",
     "url": "https://www.dirmin.no",
-    "date": "2019-04-22T00:26:45.529Z",
-    "timeStamp": 1555892805529,
+    "date": "2019-04-23T00:24:07.205Z",
+    "timeStamp": 1555979047205,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 73
+        "score": 74
       },
       {
         "id": "accessibility",
@@ -2163,13 +2283,13 @@
     "name": "Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning",
     "id": "diku",
     "url": "https://www.diku.no",
-    "date": "2019-04-22T00:27:07.091Z",
-    "timeStamp": 1555892827091,
+    "date": "2019-04-23T00:24:30.012Z",
+    "timeStamp": 1555979070012,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 83
+        "score": 77
       },
       {
         "id": "accessibility",
@@ -2203,13 +2323,13 @@
     "name": "Direktoratet for IKT og fellestjenester i høyere utdanning og forskning",
     "id": "unit",
     "url": "https://www.unit.no",
-    "date": "2019-04-22T00:27:24.370Z",
-    "timeStamp": 1555892844370,
+    "date": "2019-04-23T00:24:42.434Z",
+    "timeStamp": 1555979082434,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 64
+        "score": 60
       },
       {
         "id": "accessibility",
@@ -2243,13 +2363,13 @@
     "name": "Direktoratet for forvaltning og ikt",
     "id": "difi",
     "url": "https://www.difi.no",
-    "date": "2019-04-22T00:27:41.771Z",
-    "timeStamp": 1555892861771,
+    "date": "2019-04-23T00:24:54.184Z",
+    "timeStamp": 1555979094184,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 70
       },
       {
         "id": "accessibility",
@@ -2283,13 +2403,13 @@
     "name": "Direktoratet for e-helse",
     "id": "ehelse",
     "url": "https://www.ehelse.no",
-    "date": "2019-04-22T00:28:02.129Z",
-    "timeStamp": 1555892882129,
+    "date": "2019-04-23T00:25:10.910Z",
+    "timeStamp": 1555979110910,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 7
+        "score": 10
       },
       {
         "id": "accessibility",
@@ -2323,13 +2443,13 @@
     "name": "Direktoratet for byggkvalitet",
     "id": "dibk",
     "url": "https://www.dibk.no",
-    "date": "2019-04-22T00:28:23.634Z",
-    "timeStamp": 1555892903634,
+    "date": "2019-04-23T00:25:29.196Z",
+    "timeStamp": 1555979129196,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 50
+        "score": 57
       },
       {
         "id": "accessibility",
@@ -2363,13 +2483,13 @@
     "name": "Datatilsynet",
     "id": "datatilsynet",
     "url": "https://www.datatilsynet.no",
-    "date": "2019-04-22T00:28:51.965Z",
-    "timeStamp": 1555892931965,
+    "date": "2019-04-23T00:25:42.848Z",
+    "timeStamp": 1555979142848,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 92
+        "score": 88
       },
       {
         "id": "accessibility",
@@ -2403,13 +2523,13 @@
     "name": "Brønnøysundregistrene",
     "id": "brreg",
     "url": "https://www.brreg.no",
-    "date": "2019-04-22T00:29:06.053Z",
-    "timeStamp": 1555892946053,
+    "date": "2019-04-23T00:25:55.148Z",
+    "timeStamp": 1555979155148,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 70
+        "score": 68
       },
       {
         "id": "accessibility",
@@ -2443,13 +2563,13 @@
     "name": "Barne-, ungdoms- og familiedirektoratet",
     "id": "bufetat",
     "url": "https://www.bufdir.no",
-    "date": "2019-04-22T00:29:22.432Z",
-    "timeStamp": 1555892962432,
+    "date": "2019-04-23T00:26:09.344Z",
+    "timeStamp": 1555979169344,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 11
+        "score": 7
       },
       {
         "id": "accessibility",
@@ -2483,13 +2603,13 @@
     "name": "Arbeidstilsynet",
     "id": "arbeidstilsynet",
     "url": "https://www.arbeidstilsynet.no",
-    "date": "2019-04-22T00:29:40.225Z",
-    "timeStamp": 1555892980225,
+    "date": "2019-04-23T00:26:28.900Z",
+    "timeStamp": 1555979188900,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 88
+        "score": 89
       },
       {
         "id": "accessibility",
@@ -2523,8 +2643,8 @@
     "name": "Arbeids- og velferdsdirektoratet",
     "id": "",
     "url": "https://www.nav.no",
-    "date": "2019-04-22T00:29:53.562Z",
-    "timeStamp": 1555892993562,
+    "date": "2019-04-23T00:26:39.299Z",
+    "timeStamp": 1555979199299,
     "result": [
       {
         "id": "performance",
@@ -2555,129 +2675,6 @@
         "title": "Security",
         "score": 60,
         "grade": "C-",
-        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
-      }
-    ]
-  },
-  {
-    "name": "Vegtilsynet",
-    "id": "vegtilsynet",
-    "url": "http://www.vegtilsynet.com",
-    "date": "2019-04-22T00:30:27.594Z",
-    "timeStamp": 1555893027594,
-    "retries": 0,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 99
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 60,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 85
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 90,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "observatory",
-        "title": "Security",
-        "score": 0,
-        "grade": "F",
-        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
-      }
-    ]
-  },
-  {
-    "name": "Utlendingsdirektoratet",
-    "id": "udi",
-    "url": "https://www.udi.no",
-    "date": "2019-04-22T00:30:38.115Z",
-    "timeStamp": 1555893038115,
-    "retries": 0,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 90
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 88,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 85
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 91,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "observatory",
-        "title": "Security",
-        "score": 75,
-        "grade": "B-",
-        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
-      }
-    ]
-  },
-  {
-    "name": "Forbrukertilsynet",
-    "id": "forbrukertilsynet",
-    "url": "https://www.forbrukertilsynet.no",
-    "date": "2019-04-22T00:30:50.950Z",
-    "timeStamp": 1555893050950,
-    "retries": 0,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 81
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 85
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 92,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "observatory",
-        "title": "Security",
-        "score": 0,
-        "grade": "F",
         "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
       }
     ]
