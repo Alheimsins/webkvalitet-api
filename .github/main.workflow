@@ -55,6 +55,6 @@ action "Alias deployment" {
 action "Commit changes" {
   uses = "./github-actions/commit-changes"
   needs = ["Alias deployment"]
-  args = "Data updated"
+  args = "Data updated (ignore)"
   secrets = ["GITHUB_TOKEN"]
 }
