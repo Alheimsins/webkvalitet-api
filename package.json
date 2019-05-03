@@ -10,6 +10,7 @@
     "build-partier": "node index.js partier.json",
     "build-fylker": "node index.js fylker.json",
     "build-smartbyer": "node index.js smartbyer.json",
+    "build-nav": "node index.js nav.json",
     "test": "standard && npm audit && ava",
     "test-offline": "standard && ava",
     "coverage": "nyc ava",
