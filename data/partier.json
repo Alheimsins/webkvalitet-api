@@ -3,13 +3,13 @@
     "name": "Fremskrittspartiet",
     "id": "frp",
     "url": "https://www.frp.no",
-    "date": "2019-05-21T00:01:49.262Z",
-    "timeStamp": 1558396909262,
+    "date": "2019-05-22T00:01:26.677Z",
+    "timeStamp": 1558483286677,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 50
+        "score": 54
       },
       {
         "id": "accessibility",
@@ -43,13 +43,13 @@
     "name": "Venstre",
     "id": "venstre",
     "url": "https://www.venstre.no",
-    "date": "2019-05-21T00:02:07.221Z",
-    "timeStamp": 1558396927221,
+    "date": "2019-05-22T00:01:44.149Z",
+    "timeStamp": 1558483304149,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 22
+        "score": 21
       },
       {
         "id": "accessibility",
@@ -80,16 +80,56 @@
     ]
   },
   {
-    "name": "Miljøpartiet De Grønne",
-    "id": "mdg",
-    "url": "https://mdg.no",
-    "date": "2019-05-21T00:02:31.422Z",
-    "timeStamp": 1558396951422,
+    "name": "Høyre",
+    "id": "hoyre",
+    "url": "https://hoyre.no",
+    "date": "2019-05-22T00:02:03.698Z",
+    "timeStamp": 1558483323698,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 16
+        "score": 18
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 97,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 77
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 98,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "observatory",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
+      }
+    ]
+  },
+  {
+    "name": "Miljøpartiet De Grønne",
+    "id": "mdg",
+    "url": "https://mdg.no",
+    "date": "2019-05-22T00:02:26.809Z",
+    "timeStamp": 1558483346809,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 20
       },
       {
         "id": "accessibility",
@@ -123,13 +163,13 @@
     "name": "Senterpartiet",
     "id": "sp",
     "url": "https://www.senterpartiet.no",
-    "date": "2019-05-21T00:02:50.292Z",
-    "timeStamp": 1558396970292,
+    "date": "2019-05-22T00:02:41.766Z",
+    "timeStamp": 1558483361766,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 56
       },
       {
         "id": "accessibility",
@@ -163,13 +203,13 @@
     "name": "Kristelig Folkeparti",
     "id": "krf",
     "url": "https://www.krf.no",
-    "date": "2019-05-21T00:03:01.971Z",
-    "timeStamp": 1558396981971,
+    "date": "2019-05-22T00:02:52.985Z",
+    "timeStamp": 1558483372985,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 45
+        "score": 43
       },
       {
         "id": "accessibility",
@@ -203,13 +243,13 @@
     "name": "SV",
     "id": "sv",
     "url": "https://www.sv.no",
-    "date": "2019-05-21T00:03:20.480Z",
-    "timeStamp": 1558397000480,
+    "date": "2019-05-22T00:03:06.889Z",
+    "timeStamp": 1558483386889,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 75
+        "score": 63
       },
       {
         "id": "accessibility",
@@ -221,7 +261,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 77
+        "score": 69
       },
       {
         "id": "seo",
@@ -243,13 +283,13 @@
     "name": "Arbeiderpartiet",
     "id": "ap",
     "url": "https://www.arbeiderpartiet.no",
-    "date": "2019-05-21T00:03:37.160Z",
-    "timeStamp": 1558397017160,
+    "date": "2019-05-22T00:03:22.086Z",
+    "timeStamp": 1558483402086,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 24
+        "score": 25
       },
       {
         "id": "accessibility",
@@ -283,13 +323,13 @@
     "id": "raudt",
     "name": "Rødt",
     "url": "https://xn--rdt-0na.no",
-    "date": "2019-05-21T00:03:54.644Z",
-    "timeStamp": 1558397034644,
+    "date": "2019-05-22T00:03:38.480Z",
+    "timeStamp": 1558483418480,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 50
+        "score": 52
       },
       {
         "id": "accessibility",
