@@ -1,10 +1,50 @@
 [
   {
+    "id": "deterdinpensjon",
+    "name": "www.deterdinpensjon.no",
+    "url": "http://www.deterdinpensjon.no",
+    "date": "2019-05-31T00:35:12.611Z",
+    "timeStamp": 1559262912611,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 72
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 66,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 77
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 82,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "observatory",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
+      }
+    ]
+  },
+  {
     "id": "jobbsokerkompetanse",
     "name": "jobbsokerkompetanse.nav.no",
     "url": "https://jobbsokerkompetanse.nav.no",
-    "date": "2019-05-30T00:33:06.634Z",
-    "timeStamp": 1559176386634,
+    "date": "2019-05-31T00:35:25.375Z",
+    "timeStamp": 1559262925375,
     "result": [
       {
         "id": "performance",
@@ -43,13 +83,13 @@
     "id": "veiviserarbeidssoker",
     "name": "veiviserarbeidssoker.nav.no",
     "url": "https://veiviserarbeidssoker.nav.no",
-    "date": "2019-05-30T00:33:22.902Z",
-    "timeStamp": 1559176402902,
+    "date": "2019-05-31T00:35:44.102Z",
+    "timeStamp": 1559262944102,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 27
+        "score": 28
       },
       {
         "id": "accessibility",
@@ -83,13 +123,13 @@
     "id": "veiledearbeidssoker",
     "name": "veiledearbeidssoker.nav.no",
     "url": "https://veiledearbeidssoker.nav.no",
-    "date": "2019-05-30T00:33:42.233Z",
-    "timeStamp": 1559176422233,
+    "date": "2019-05-31T00:36:04.498Z",
+    "timeStamp": 1559262964498,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 18
+        "score": 21
       },
       {
         "id": "accessibility",
@@ -123,13 +163,13 @@
     "id": "arbeidsplassen",
     "name": "arbeidsplassen.nav.no",
     "url": "https://arbeidsplassen.nav.no",
-    "date": "2019-05-30T00:33:58.714Z",
-    "timeStamp": 1559176438714,
+    "date": "2019-05-31T00:36:21.171Z",
+    "timeStamp": 1559262981171,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 72
       },
       {
         "id": "accessibility",
@@ -163,13 +203,13 @@
     "id": "mia",
     "name": "mia.nav.no",
     "url": "https://mia.nav.no",
-    "date": "2019-05-30T00:34:11.715Z",
-    "timeStamp": 1559176451715,
+    "date": "2019-05-31T00:36:33.278Z",
+    "timeStamp": 1559262993278,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 30
+        "score": 28
       },
       {
         "id": "accessibility",
@@ -203,13 +243,13 @@
     "id": "familie",
     "name": "familie.nav.no",
     "url": "https://familie.nav.no",
-    "date": "2019-05-30T00:34:27.898Z",
-    "timeStamp": 1559176467898,
+    "date": "2019-05-31T00:36:52.283Z",
+    "timeStamp": 1559263012283,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 23
+        "score": 28
       },
       {
         "id": "accessibility",
@@ -243,13 +283,13 @@
     "id": "navno",
     "name": "nav.no",
     "url": "https://www.nav.no/Forsiden",
-    "date": "2019-05-30T00:34:46.332Z",
-    "timeStamp": 1559176486332,
+    "date": "2019-05-31T00:37:08.182Z",
+    "timeStamp": 1559263028182,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 38
+        "score": 49
       },
       {
         "id": "accessibility",
