@@ -3,13 +3,13 @@
   const { writeFile } = require('fs').promises
   const wq = require('@alheimsins/webquality')
   const sourceFile = process.argv[2]
-  let pages = require(`./sources/${sourceFile}`)
-  let data = []
+  const pages = require(`./sources/${sourceFile}`)
+  const data = []
   console.log(`Got ${pages.length} pages`)
   const next = async () => {
     if (pages.length > 0) {
       const now = new Date()
-      let page = pages.pop()
+      const page = pages.pop()
       console.log(`Now checking: ${page.name}`)
       page.date = now
       page.timeStamp = now.getTime()
@@ -21,7 +21,7 @@
         await next()
       } catch (error) {
         console.error(`Failed checking: ${page.name} - ${error}`)
-        if (page.hasOwnProperty('retries')) {
+        if (Object.prototype.hasOwnProperty.call(page, 'retries')) {
           page.retries = page.retries + 1
         } else {
           page.retries = 0
