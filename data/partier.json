@@ -3,13 +3,13 @@
     "name": "Fremskrittspartiet",
     "id": "frp",
     "url": "https://www.frp.no",
-    "date": "2019-07-25T00:01:42.282Z",
-    "timeStamp": 1564012902282,
+    "date": "2019-07-26T00:01:57.657Z",
+    "timeStamp": 1564099317657,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 45
+        "score": 44
       },
       {
         "id": "accessibility",
@@ -43,8 +43,8 @@
     "name": "Venstre",
     "id": "venstre",
     "url": "https://www.venstre.no",
-    "date": "2019-07-25T00:02:00.815Z",
-    "timeStamp": 1564012920815,
+    "date": "2019-07-26T00:02:18.302Z",
+    "timeStamp": 1564099338302,
     "result": [
       {
         "id": "performance",
@@ -83,8 +83,8 @@
     "name": "Miljøpartiet De Grønne",
     "id": "mdg",
     "url": "https://mdg.no",
-    "date": "2019-07-25T00:03:30.651Z",
-    "timeStamp": 1564013010651,
+    "date": "2019-07-26T00:03:44.810Z",
+    "timeStamp": 1564099424810,
     "result": [
       {
         "id": "performance",
@@ -123,13 +123,13 @@
     "name": "Senterpartiet",
     "id": "sp",
     "url": "https://www.senterpartiet.no",
-    "date": "2019-07-25T00:03:51.428Z",
-    "timeStamp": 1564013031428,
+    "date": "2019-07-26T00:04:05.697Z",
+    "timeStamp": 1564099445697,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 50
+        "score": 53
       },
       {
         "id": "accessibility",
@@ -163,13 +163,13 @@
     "name": "Kristelig Folkeparti",
     "id": "krf",
     "url": "https://www.krf.no",
-    "date": "2019-07-25T00:04:04.066Z",
-    "timeStamp": 1564013044066,
+    "date": "2019-07-26T00:04:19.519Z",
+    "timeStamp": 1564099459519,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 42
+        "score": 43
       },
       {
         "id": "accessibility",
@@ -181,13 +181,13 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 77
+        "score": 85
       },
       {
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 87,
+        "score": 91,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
@@ -200,56 +200,16 @@
     ]
   },
   {
-    "name": "SV",
-    "id": "sv",
-    "url": "https://www.sv.no",
-    "date": "2019-07-25T00:04:28.927Z",
-    "timeStamp": 1564013068927,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 61
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 75,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 69
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 90,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "observatory",
-        "title": "Security",
-        "score": 80,
-        "grade": "B",
-        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
-      }
-    ]
-  },
-  {
     "name": "Arbeiderpartiet",
     "id": "ap",
     "url": "https://www.arbeiderpartiet.no",
-    "date": "2019-07-25T00:04:57.670Z",
-    "timeStamp": 1564013097670,
+    "date": "2019-07-26T00:04:56.690Z",
+    "timeStamp": 1564099496690,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 15
+        "score": 16
       },
       {
         "id": "accessibility",
@@ -283,13 +243,13 @@
     "id": "raudt",
     "name": "Rødt",
     "url": "https://xn--rdt-0na.no",
-    "date": "2019-07-25T00:05:23.214Z",
-    "timeStamp": 1564013123214,
+    "date": "2019-07-26T00:05:17.476Z",
+    "timeStamp": 1564099517476,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 34
+        "score": 38
       },
       {
         "id": "accessibility",
@@ -315,6 +275,47 @@
         "title": "Security",
         "score": 50,
         "grade": "D",
+        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
+      }
+    ]
+  },
+  {
+    "name": "SV",
+    "id": "sv",
+    "url": "https://www.sv.no",
+    "date": "2019-07-26T00:05:32.121Z",
+    "timeStamp": 1564099532121,
+    "retries": 0,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 57
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 75,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 69
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 90,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "observatory",
+        "title": "Security",
+        "score": 80,
+        "grade": "B",
         "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
       }
     ]
