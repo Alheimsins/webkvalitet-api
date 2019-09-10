@@ -1,6 +1,6 @@
 on:
-  schedules:
-  - cron: 0 0 * * *
+  schedule:
+  - cron: '0 0 * * *'
 name: Updates data
 jobs:
   installDependencies:
