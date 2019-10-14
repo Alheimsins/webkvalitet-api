@@ -32,12 +32,10 @@ jobs:
       uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
       with:
         args: run build-nav
-    - name: Deploy to now
-      uses: actions/zeit-now@1.0.0
+    - name: Deploy to ZEIT
       env:
         ZEIT_TOKEN: ${{ secrets.ZEIT_TOKEN }}
-      with:
-        args: --prod
+      run: now --prod --token ${ZEIT_TOKEN}
     - name: Commit changes
       uses: ./github-actions/commit-changes
       env:
