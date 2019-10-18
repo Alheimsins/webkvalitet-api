@@ -37,8 +37,11 @@ jobs:
         ZEIT_TOKEN: ${{ secrets.ZEIT_TOKEN }}
       run: now --prod --token ${ZEIT_TOKEN}
     - name: Commit changes
-      uses: ./github-actions/commit-changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --local user.email "geir.gasodden@pythonia.no"
+        git config --local user.name "zrrrzzt"
+        git commit -am "Updates data (ignore)"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
-        args: Data updated (ignore)
+        github_token: ${{ secrets.GITHUB_TOKEN }}
