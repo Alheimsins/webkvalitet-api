@@ -3,13 +3,13 @@
     "name": "Oslo",
     "id": "osl",
     "url": "https://www.oslo.kommune.no/",
-    "date": "2019-10-19T00:15:42.770Z",
-    "timeStamp": 1571444142770,
+    "date": "2019-10-20T00:13:48.405Z",
+    "timeStamp": 1571530428405,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 15
+        "score": 14
       },
       {
         "id": "accessibility",
@@ -43,13 +43,13 @@
     "name": "Finnmark",
     "id": "ffk",
     "url": "https://www.ffk.no/",
-    "date": "2019-10-19T00:16:02.321Z",
-    "timeStamp": 1571444162321,
+    "date": "2019-10-20T00:14:11.216Z",
+    "timeStamp": 1571530451216,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 62
       },
       {
         "id": "accessibility",
@@ -83,13 +83,13 @@
     "name": "Troms",
     "id": "trofk",
     "url": "https://www.tromsfylke.no/",
-    "date": "2019-10-19T00:16:58.881Z",
-    "timeStamp": 1571444218881,
+    "date": "2019-10-20T00:14:27.898Z",
+    "timeStamp": 1571530467898,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 5
+        "score": 22
       },
       {
         "id": "accessibility",
@@ -123,13 +123,13 @@
     "name": "Nordland",
     "id": "nfk",
     "url": "https://www.nfk.no/",
-    "date": "2019-10-19T00:17:21.165Z",
-    "timeStamp": 1571444241165,
+    "date": "2019-10-20T00:14:49.841Z",
+    "timeStamp": 1571530489841,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 72
+        "score": 75
       },
       {
         "id": "accessibility",
@@ -160,16 +160,56 @@
     ]
   },
   {
-    "name": "Møre og Romsdal",
-    "id": "mrfk",
-    "url": "https://mrfylke.no/",
-    "date": "2019-10-19T00:17:56.790Z",
-    "timeStamp": 1571444276790,
+    "name": "Trøndelag",
+    "id": "trfk",
+    "url": "https://www.trondelagfylke.no/",
+    "date": "2019-10-20T00:15:03.811Z",
+    "timeStamp": 1571530503811,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 95
+        "score": 59
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 98,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 69
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 91,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "observatory",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
+      }
+    ]
+  },
+  {
+    "name": "Møre og Romsdal",
+    "id": "mrfk",
+    "url": "https://mrfylke.no/",
+    "date": "2019-10-20T00:15:23.443Z",
+    "timeStamp": 1571530523443,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 77
       },
       {
         "id": "accessibility",
@@ -181,7 +221,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 92
       },
       {
         "id": "seo",
@@ -203,13 +243,13 @@
     "name": "Sogn og Fjordane",
     "id": "sffk",
     "url": "https://www.sfj.no/",
-    "date": "2019-10-19T00:18:11.449Z",
-    "timeStamp": 1571444291449,
+    "date": "2019-10-20T00:15:44.265Z",
+    "timeStamp": 1571530544265,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 66
+        "score": 65
       },
       {
         "id": "accessibility",
@@ -243,13 +283,13 @@
     "name": "Hordaland",
     "id": "hfk",
     "url": "https://www.hordaland.no/",
-    "date": "2019-10-19T00:18:23.858Z",
-    "timeStamp": 1571444303858,
+    "date": "2019-10-20T00:16:07.276Z",
+    "timeStamp": 1571530567276,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 36
+        "score": 34
       },
       {
         "id": "accessibility",
@@ -261,7 +301,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 85
       },
       {
         "id": "seo",
@@ -283,13 +323,13 @@
     "name": "Rogaland",
     "id": "rfk",
     "url": "http://www.rogfk.no/",
-    "date": "2019-10-19T00:18:37.606Z",
-    "timeStamp": 1571444317606,
+    "date": "2019-10-20T00:16:24.456Z",
+    "timeStamp": 1571530584456,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 34
+        "score": 35
       },
       {
         "id": "accessibility",
@@ -323,13 +363,13 @@
     "name": "Vest-Agder",
     "id": "vafk",
     "url": "https://www.vaf.no/",
-    "date": "2019-10-19T00:18:52.772Z",
-    "timeStamp": 1571444332772,
+    "date": "2019-10-20T00:16:41.900Z",
+    "timeStamp": 1571530601900,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 36
+        "score": 29
       },
       {
         "id": "accessibility",
@@ -363,13 +403,13 @@
     "name": "Aust-Agder",
     "id": "aafk",
     "url": "https://www.austagderfk.no/",
-    "date": "2019-10-19T00:19:11.649Z",
-    "timeStamp": 1571444351649,
+    "date": "2019-10-20T00:16:59.653Z",
+    "timeStamp": 1571530619653,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 62
+        "score": 73
       },
       {
         "id": "accessibility",
@@ -403,13 +443,13 @@
     "name": "Telemark",
     "id": "tfk",
     "url": "https://www.telemark.no/",
-    "date": "2019-10-19T00:19:27.555Z",
-    "timeStamp": 1571444367555,
+    "date": "2019-10-20T00:17:16.477Z",
+    "timeStamp": 1571530636477,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 87
+        "score": 71
       },
       {
         "id": "accessibility",
@@ -421,7 +461,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 69
+        "score": 77
       },
       {
         "id": "seo",
@@ -443,13 +483,13 @@
     "name": "Vestfold",
     "id": "vfk",
     "url": "https://www.vfk.no/",
-    "date": "2019-10-19T00:19:40.903Z",
-    "timeStamp": 1571444380903,
+    "date": "2019-10-20T00:18:23.622Z",
+    "timeStamp": 1571530703622,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 36
+        "score": 32
       },
       {
         "id": "accessibility",
@@ -483,13 +523,13 @@
     "name": "Buskerud",
     "id": "bfk",
     "url": "http://www.bfk.no/",
-    "date": "2019-10-19T00:20:00.928Z",
-    "timeStamp": 1571444400928,
+    "date": "2019-10-20T00:18:44.079Z",
+    "timeStamp": 1571530724079,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 41
+        "score": 20
       },
       {
         "id": "accessibility",
@@ -523,13 +563,13 @@
     "name": "Oppland",
     "id": "ofk",
     "url": "https://www.oppland.no/",
-    "date": "2019-10-19T00:20:15.435Z",
-    "timeStamp": 1571444415435,
+    "date": "2019-10-20T00:18:59.287Z",
+    "timeStamp": 1571530739287,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 31
+        "score": 33
       },
       {
         "id": "accessibility",
@@ -541,7 +581,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 69
+        "score": 77
       },
       {
         "id": "seo",
@@ -563,13 +603,13 @@
     "name": "Hedmark",
     "id": "hefk",
     "url": "https://www.hedmark.org/",
-    "date": "2019-10-19T00:20:31.934Z",
-    "timeStamp": 1571444431934,
+    "date": "2019-10-20T00:19:25.882Z",
+    "timeStamp": 1571530765882,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 13
+        "score": 12
       },
       {
         "id": "accessibility",
@@ -603,13 +643,13 @@
     "name": "Akershus",
     "id": "afk",
     "url": "https://www.akershus.no/",
-    "date": "2019-10-19T00:20:59.620Z",
-    "timeStamp": 1571444459620,
+    "date": "2019-10-20T00:20:03.406Z",
+    "timeStamp": 1571530803406,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 72
+        "score": 71
       },
       {
         "id": "accessibility",
@@ -621,7 +661,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -643,13 +683,13 @@
     "name": "Østfold",
     "id": "osfk",
     "url": "https://www.ostfoldfk.no/",
-    "date": "2019-10-19T00:21:17.324Z",
-    "timeStamp": 1571444477324,
+    "date": "2019-10-20T00:20:25.826Z",
+    "timeStamp": 1571530825826,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 60
+        "score": 67
       },
       {
         "id": "accessibility",
@@ -668,47 +708,6 @@
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
         "score": 100,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "observatory",
-        "title": "Security",
-        "score": 0,
-        "grade": "F",
-        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
-      }
-    ]
-  },
-  {
-    "name": "Trøndelag",
-    "id": "trfk",
-    "url": "https://www.trondelagfylke.no/",
-    "date": "2019-10-19T00:21:48.270Z",
-    "timeStamp": 1571444508270,
-    "retries": 1,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 59
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 98,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 69
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 83,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
