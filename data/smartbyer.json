@@ -3,8 +3,8 @@
     "name": "Ålesund",
     "id": "alesund",
     "url": "https://www.alesund.kommune.no",
-    "date": "2019-11-21T00:45:00.213Z",
-    "timeStamp": 1574297100213,
+    "date": "2019-11-22T00:44:13.259Z",
+    "timeStamp": 1574383453259,
     "result": [
       {
         "id": "performance",
@@ -43,13 +43,13 @@
     "name": "Trondheim",
     "id": "trondheim",
     "url": "https://www.trondheim.kommune.no",
-    "date": "2019-11-21T00:45:17.500Z",
-    "timeStamp": 1574297117500,
+    "date": "2019-11-22T00:44:30.024Z",
+    "timeStamp": 1574383470024,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 65
+        "score": 66
       },
       {
         "id": "accessibility",
@@ -83,13 +83,13 @@
     "name": "Tromsø",
     "id": "tromso",
     "url": "https://www.tromso.kommune.no",
-    "date": "2019-11-21T00:46:29.634Z",
-    "timeStamp": 1574297189634,
+    "date": "2019-11-22T00:45:42.014Z",
+    "timeStamp": 1574383542014,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 66
+        "score": 69
       },
       {
         "id": "accessibility",
@@ -101,7 +101,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 69
+        "score": 62
       },
       {
         "id": "seo",
@@ -123,13 +123,13 @@
     "name": "Stavanger",
     "id": "stavanger",
     "url": "https://www.stavanger.kommune.no",
-    "date": "2019-11-21T00:46:47.840Z",
-    "timeStamp": 1574297207840,
+    "date": "2019-11-22T00:45:58.831Z",
+    "timeStamp": 1574383558831,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 27
+        "score": 43
       },
       {
         "id": "accessibility",
@@ -163,13 +163,13 @@
     "name": "Sandnes",
     "id": "sandnes",
     "url": "https://www.sandnes.kommune.no",
-    "date": "2019-11-21T00:47:01.572Z",
-    "timeStamp": 1574297221572,
+    "date": "2019-11-22T00:46:13.455Z",
+    "timeStamp": 1574383573455,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 2
+        "score": 3
       },
       {
         "id": "accessibility",
@@ -203,13 +203,13 @@
     "name": "Oslo",
     "id": "oslo",
     "url": "https://www.oslo.kommune.no",
-    "date": "2019-11-21T00:47:24.657Z",
-    "timeStamp": 1574297244657,
+    "date": "2019-11-22T00:46:33.181Z",
+    "timeStamp": 1574383593181,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 15
+        "score": 14
       },
       {
         "id": "accessibility",
@@ -240,16 +240,56 @@
     ]
   },
   {
-    "name": "Kristiansand",
-    "id": "kristiansand",
-    "url": "https://www.kristiansand.kommune.no",
-    "date": "2019-11-21T00:47:53.748Z",
-    "timeStamp": 1574297273748,
+    "name": "Narvik",
+    "id": "narvik",
+    "url": "https://www.narvik.kommune.no",
+    "date": "2019-11-22T00:46:50.894Z",
+    "timeStamp": 1574383610894,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 37
+        "score": 51
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 87,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 77
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 92,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "observatory",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
+      }
+    ]
+  },
+  {
+    "name": "Kristiansand",
+    "id": "kristiansand",
+    "url": "https://www.kristiansand.kommune.no",
+    "date": "2019-11-22T00:47:03.511Z",
+    "timeStamp": 1574383623511,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 39
       },
       {
         "id": "accessibility",
@@ -283,13 +323,13 @@
     "id": "halden",
     "name": "Halden",
     "url": "https://www.halden.kommune.no",
-    "date": "2019-11-21T00:48:11.160Z",
-    "timeStamp": 1574297291160,
+    "date": "2019-11-22T00:47:18.314Z",
+    "timeStamp": 1574383638314,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 10
+        "score": 11
       },
       {
         "id": "accessibility",
@@ -301,7 +341,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -323,13 +363,13 @@
     "id": "drammen",
     "name": "Drammen",
     "url": "https://www.drammen.kommune.no",
-    "date": "2019-11-21T00:48:40.267Z",
-    "timeStamp": 1574297320267,
+    "date": "2019-11-22T00:47:52.809Z",
+    "timeStamp": 1574383672809,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 43
+        "score": 46
       },
       {
         "id": "accessibility",
@@ -353,8 +393,8 @@
       {
         "id": "observatory",
         "title": "Security",
-        "score": 45,
-        "grade": "D-",
+        "score": 0,
+        "grade": "F",
         "description": "The Mozilla Observatory teaches you how to configure your sites safely and securely. https://observatory.mozilla.org"
       }
     ]
@@ -363,13 +403,13 @@
     "id": "barum",
     "name": "Bærum",
     "url": "https://www.baerum.kommune.no",
-    "date": "2019-11-21T00:48:57.428Z",
-    "timeStamp": 1574297337428,
+    "date": "2019-11-22T00:48:08.187Z",
+    "timeStamp": 1574383688187,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 89
+        "score": 86
       },
       {
         "id": "accessibility",
@@ -403,13 +443,13 @@
     "id": "bodo",
     "name": "Bodø",
     "url": "https://bodo.kommune.no",
-    "date": "2019-11-21T00:49:09.325Z",
-    "timeStamp": 1574297349325,
+    "date": "2019-11-22T00:48:19.777Z",
+    "timeStamp": 1574383699777,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 42
+        "score": 49
       },
       {
         "id": "accessibility",
@@ -443,13 +483,13 @@
     "id": "bergen",
     "name": "Bergen",
     "url": "https://www.bergen.kommune.no",
-    "date": "2019-11-21T00:49:27.666Z",
-    "timeStamp": 1574297367666,
+    "date": "2019-11-22T00:48:36.963Z",
+    "timeStamp": 1574383716963,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 47
+        "score": 48
       },
       {
         "id": "accessibility",
@@ -483,13 +523,13 @@
     "id": "asker",
     "name": "Asker",
     "url": "https://www.asker.kommune.no",
-    "date": "2019-11-21T00:49:42.120Z",
-    "timeStamp": 1574297382120,
+    "date": "2019-11-22T00:48:51.389Z",
+    "timeStamp": 1574383731389,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 54
+        "score": 66
       },
       {
         "id": "accessibility",
