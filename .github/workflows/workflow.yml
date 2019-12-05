@@ -4,34 +4,19 @@ on:
 name: Updates data
 jobs:
   installDependencies:
-    name: Install dependencies
+    name: Install dependencies and run build
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Install dependencies
-      uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
+    - uses: actions/setup-node@v1
       with:
-        args: install
-    - name: Build partier
-      uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
-      with:
-        args: run build-partier
-    - name: Build fylker
-      uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
-      with:
-        args: run build-fylker
-    - name: Build direktorater
-      uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
-      with:
-        args: run build-direktorater
-    - name: Build smartbyer
-      uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
-      with:
-        args: run build-smartbyer
-    - name: Build NAV
-      uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
-      with:
-        args: run build-nav
+        node-version: '10.x'
+    - run: npm install
+    - run: npm run build-partier
+    - run: npm run build-fylker
+    - run: npm run build-direktorater
+    - run: npm run build-smartbyer
+    - run: npm run build-nav
     - name: Deploy to ZEIT
       env:
         ZEIT_TOKEN: ${{ secrets.ZEIT_TOKEN }}
