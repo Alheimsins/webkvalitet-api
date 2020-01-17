@@ -19,7 +19,7 @@
     "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "dependencies": {
-    "@alheimsins/webquality": "1.0.5"
+    "@alheimsins/webquality": "2.0.0"
   },
   "devDependencies": {
     "ava": "2.4.0",
