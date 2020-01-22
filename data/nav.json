@@ -1,15 +1,55 @@
 [
   {
-    "id": "hurtigveileder",
-    "name": "Hurtigveileder",
-    "url": "https://www.nav.no/arbeid/hurtigveileder/",
-    "date": "2020-01-22T00:29:45.111Z",
-    "timeStamp": 1579652985111,
+    "id": "design",
+    "name": "design.nav.no",
+    "url": "https://design.nav.no",
+    "date": "2020-01-22T09:38:38.163Z",
+    "timeStamp": 1579685918163,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 96
+        "score": 32
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 100,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 100
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 97,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "id": "hurtigveileder",
+    "name": "Hurtigveileder",
+    "url": "https://www.nav.no/arbeid/hurtigveileder/",
+    "date": "2020-01-22T09:38:48.629Z",
+    "timeStamp": 1579685928629,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 93
       },
       {
         "id": "accessibility",
@@ -43,13 +83,13 @@
     "id": "dataverk",
     "name": "dataverk.nav.no",
     "url": "https://dataverk.nav.no",
-    "date": "2020-01-22T00:29:52.928Z",
-    "timeStamp": 1579652992928,
+    "date": "2020-01-22T09:38:57.427Z",
+    "timeStamp": 1579685937427,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 33
+        "score": 32
       },
       {
         "id": "accessibility",
@@ -83,13 +123,13 @@
     "id": "deterdinpensjon",
     "name": "www.deterdinpensjon.no",
     "url": "http://www.deterdinpensjon.no",
-    "date": "2020-01-22T00:30:07.330Z",
-    "timeStamp": 1579653007330,
+    "date": "2020-01-22T09:39:11.981Z",
+    "timeStamp": 1579685951981,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 79
+        "score": 68
       },
       {
         "id": "accessibility",
@@ -101,7 +141,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 77
+        "score": 85
       },
       {
         "id": "seo",
@@ -123,13 +163,13 @@
     "id": "jobbsokerkompetanse",
     "name": "jobbsokerkompetanse.nav.no",
     "url": "https://jobbsokerkompetanse.nav.no",
-    "date": "2020-01-22T00:30:17.766Z",
-    "timeStamp": 1579653017766,
+    "date": "2020-01-22T09:39:23.127Z",
+    "timeStamp": 1579685963127,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 21
+        "score": 26
       },
       {
         "id": "accessibility",
@@ -163,13 +203,13 @@
     "id": "veiviserarbeidssoker",
     "name": "veiviserarbeidssoker.nav.no",
     "url": "https://veiviserarbeidssoker.nav.no",
-    "date": "2020-01-22T00:30:32.775Z",
-    "timeStamp": 1579653032775,
+    "date": "2020-01-22T09:39:40.310Z",
+    "timeStamp": 1579685980310,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 17
+        "score": 20
       },
       {
         "id": "accessibility",
@@ -203,13 +243,13 @@
     "id": "veiledearbeidssoker",
     "name": "veiledearbeidssoker.nav.no",
     "url": "https://veiledearbeidssoker.nav.no",
-    "date": "2020-01-22T00:30:49.029Z",
-    "timeStamp": 1579653049029,
+    "date": "2020-01-22T09:39:58.165Z",
+    "timeStamp": 1579685998165,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 17
+        "score": 23
       },
       {
         "id": "accessibility",
@@ -243,8 +283,8 @@
     "id": "arbeidssokerregistrering",
     "name": "arbeidssokerregistrering.nav.no",
     "url": "https://arbeidssokerregistrering.nav.no/start",
-    "date": "2020-01-22T00:31:02.899Z",
-    "timeStamp": 1579653062899,
+    "date": "2020-01-22T09:40:12.868Z",
+    "timeStamp": 1579686012868,
     "result": [
       {
         "id": "performance",
@@ -283,13 +323,13 @@
     "id": "arbeidsplassen",
     "name": "arbeidsplassen.nav.no",
     "url": "https://arbeidsplassen.nav.no",
-    "date": "2020-01-22T00:31:18.258Z",
-    "timeStamp": 1579653078258,
+    "date": "2020-01-22T09:40:29.800Z",
+    "timeStamp": 1579686029800,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 85
+        "score": 94
       },
       {
         "id": "accessibility",
@@ -323,13 +363,13 @@
     "id": "familie",
     "name": "familie.nav.no",
     "url": "https://familie.nav.no",
-    "date": "2020-01-22T00:31:26.256Z",
-    "timeStamp": 1579653086256,
+    "date": "2020-01-22T09:40:38.760Z",
+    "timeStamp": 1579686038760,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 16
+        "score": 17
       },
       {
         "id": "accessibility",
@@ -363,13 +403,13 @@
     "id": "dagpengekalkulator",
     "name": "Dagpengekalkulator",
     "url": "https://www.nav.no/arbeid/dagpenger/kalkulator",
-    "date": "2020-01-22T00:31:40.964Z",
-    "timeStamp": 1579653100964,
+    "date": "2020-01-22T09:40:52.304Z",
+    "timeStamp": 1579686052304,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 44
+        "score": 33
       },
       {
         "id": "accessibility",
@@ -403,13 +443,13 @@
     "id": "navno",
     "name": "nav.no",
     "url": "https://www.nav.no/Forsiden",
-    "date": "2020-01-22T00:31:49.960Z",
-    "timeStamp": 1579653109960,
+    "date": "2020-01-22T09:41:03.567Z",
+    "timeStamp": 1579686063567,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 52
       },
       {
         "id": "accessibility",
@@ -427,7 +467,7 @@
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 88,
+        "score": 89,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
