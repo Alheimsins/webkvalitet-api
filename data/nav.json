@@ -1,10 +1,50 @@
 [
   {
+    "id": "arbeidsituasjonpermittert",
+    "name": "arbeid/permittert",
+    "url": "https://www.nav.no/arbeid/permittert",
+    "date": "2020-03-19T00:36:45.854Z",
+    "timeStamp": 1584578205854,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 14
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 75,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 85
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 89,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 95,
+        "grade": "A",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
     "id": "design",
     "name": "design.nav.no",
     "url": "https://design.nav.no",
-    "date": "2020-03-18T00:38:49.366Z",
-    "timeStamp": 1584491929366,
+    "date": "2020-03-19T00:37:00.761Z",
+    "timeStamp": 1584578220761,
     "result": [
       {
         "id": "performance",
@@ -43,13 +83,13 @@
     "id": "dataverk",
     "name": "dataverk.nav.no",
     "url": "https://dataverk.nav.no",
-    "date": "2020-03-18T00:38:58.109Z",
-    "timeStamp": 1584491938109,
+    "date": "2020-03-19T00:37:10.406Z",
+    "timeStamp": 1584578230406,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 31
+        "score": 32
       },
       {
         "id": "accessibility",
@@ -83,13 +123,13 @@
     "id": "deterdinpensjon",
     "name": "www.deterdinpensjon.no",
     "url": "http://www.deterdinpensjon.no",
-    "date": "2020-03-18T00:39:09.444Z",
-    "timeStamp": 1584491949444,
+    "date": "2020-03-19T00:37:21.796Z",
+    "timeStamp": 1584578241796,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 74
+        "score": 83
       },
       {
         "id": "accessibility",
@@ -123,8 +163,8 @@
     "id": "jobbsokerkompetanse",
     "name": "jobbsokerkompetanse.nav.no",
     "url": "https://jobbsokerkompetanse.nav.no",
-    "date": "2020-03-18T00:39:20.164Z",
-    "timeStamp": 1584491960164,
+    "date": "2020-03-19T00:37:33.944Z",
+    "timeStamp": 1584578253944,
     "result": [
       {
         "id": "performance",
@@ -163,13 +203,13 @@
     "id": "veiviserarbeidssoker",
     "name": "veiviserarbeidssoker.nav.no",
     "url": "https://veiviserarbeidssoker.nav.no",
-    "date": "2020-03-18T00:39:39.574Z",
-    "timeStamp": 1584491979574,
+    "date": "2020-03-19T00:37:52.250Z",
+    "timeStamp": 1584578272250,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 15
+        "score": 27
       },
       {
         "id": "accessibility",
@@ -203,13 +243,13 @@
     "id": "veiledearbeidssoker",
     "name": "veiledearbeidssoker.nav.no",
     "url": "https://veiledearbeidssoker.nav.no",
-    "date": "2020-03-18T00:39:58.868Z",
-    "timeStamp": 1584491998868,
+    "date": "2020-03-19T00:38:07.815Z",
+    "timeStamp": 1584578287815,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 16
+        "score": 24
       },
       {
         "id": "accessibility",
@@ -243,13 +283,13 @@
     "id": "arbeidssokerregistrering",
     "name": "arbeidssokerregistrering.nav.no",
     "url": "https://arbeidssokerregistrering.nav.no/start",
-    "date": "2020-03-18T00:40:14.188Z",
-    "timeStamp": 1584492014188,
+    "date": "2020-03-19T00:38:22.004Z",
+    "timeStamp": 1584578302004,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 25
+        "score": 15
       },
       {
         "id": "accessibility",
@@ -283,13 +323,13 @@
     "id": "arbeidsplassen",
     "name": "arbeidsplassen.nav.no",
     "url": "https://arbeidsplassen.nav.no",
-    "date": "2020-03-18T00:40:29.796Z",
-    "timeStamp": 1584492029796,
+    "date": "2020-03-19T00:38:37.979Z",
+    "timeStamp": 1584578317979,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 85
+        "score": 95
       },
       {
         "id": "accessibility",
@@ -323,13 +363,13 @@
     "id": "familie",
     "name": "familie.nav.no",
     "url": "https://familie.nav.no",
-    "date": "2020-03-18T00:40:37.976Z",
-    "timeStamp": 1584492037976,
+    "date": "2020-03-19T00:38:45.002Z",
+    "timeStamp": 1584578325002,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 17
+        "score": 15
       },
       {
         "id": "accessibility",
@@ -341,7 +381,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 69
+        "score": 77
       },
       {
         "id": "seo",
@@ -363,19 +403,19 @@
     "id": "dagpengeveiviser",
     "name": "Dagpengeveiviser",
     "url": "https://www.nav.no/arbeid/dagpenger/veiviser",
-    "date": "2020-03-18T00:40:55.265Z",
-    "timeStamp": 1584492055265,
+    "date": "2020-03-19T00:39:02.515Z",
+    "timeStamp": 1584578342515,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 41
+        "score": 34
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
+        "score": 98,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -403,13 +443,13 @@
     "id": "dagpengekalkulator",
     "name": "Dagpengekalkulator",
     "url": "https://www.nav.no/arbeid/dagpenger/kalkulator",
-    "date": "2020-03-18T00:41:10.227Z",
-    "timeStamp": 1584492070227,
+    "date": "2020-03-19T00:39:16.655Z",
+    "timeStamp": 1584578356655,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 37
+        "score": 45
       },
       {
         "id": "accessibility",
@@ -443,13 +483,13 @@
     "id": "navno",
     "name": "nav.no",
     "url": "https://www.nav.no/Forsiden",
-    "date": "2020-03-18T00:41:23.959Z",
-    "timeStamp": 1584492083959,
+    "date": "2020-03-19T00:39:26.323Z",
+    "timeStamp": 1584578366323,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 57
+        "score": 50
       },
       {
         "id": "accessibility",
