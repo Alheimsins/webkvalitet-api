@@ -47,7 +47,7 @@ $ npm run build-smartbyer
 
 # Deploy
 
-Deploys to ZEIT/Now
+Deploys to vercel
 
 ```
 $ npm run deploy
