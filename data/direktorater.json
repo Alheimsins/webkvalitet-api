@@ -3,31 +3,31 @@
     "name": "Vegtilsynet",
     "id": "vegtilsynet",
     "url": "http://www.vegtilsynet.com",
-    "date": "2020-05-24T00:26:27.001Z",
-    "timeStamp": 1590279987001,
+    "date": "2020-06-14T00:24:16.269Z",
+    "timeStamp": 1592094256269,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 51
+        "score": 54
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 82,
+        "score": 97,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 85
       },
       {
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 76,
+        "score": 85,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
@@ -43,13 +43,13 @@
     "name": "Vegdirektoratet",
     "id": "vegvesen",
     "url": "https://www.vegvesen.no",
-    "date": "2020-05-24T00:26:37.374Z",
-    "timeStamp": 1590279997374,
+    "date": "2020-06-14T00:24:29.303Z",
+    "timeStamp": 1592094269303,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 73
+        "score": 65
       },
       {
         "id": "accessibility",
@@ -83,19 +83,19 @@
     "name": "Valgdirektoratet",
     "id": "valg",
     "url": "https://www.valg.no",
-    "date": "2020-05-24T00:26:48.429Z",
-    "timeStamp": 1590280008429,
+    "date": "2020-06-14T00:24:43.699Z",
+    "timeStamp": 1592094283699,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 91
+        "score": 90
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 92,
+        "score": 93,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -123,13 +123,13 @@
     "name": "Utlendingsdirektoratet",
     "id": "udi",
     "url": "https://www.udi.no",
-    "date": "2020-05-24T00:26:59.152Z",
-    "timeStamp": 1590280019152,
+    "date": "2020-06-14T00:24:53.972Z",
+    "timeStamp": 1592094293972,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 89
+        "score": 93
       },
       {
         "id": "accessibility",
@@ -147,14 +147,14 @@
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 92,
+        "score": 100,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
         "id": "securityheaders",
         "title": "Security",
-        "score": 95,
-        "grade": "A",
+        "score": 80,
+        "grade": "B",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -163,13 +163,13 @@
     "name": "Utdanningsdirektoratet",
     "id": "udir",
     "url": "https://www.udir.no",
-    "date": "2020-05-24T00:27:07.912Z",
-    "timeStamp": 1590280027912,
+    "date": "2020-06-14T00:25:05.572Z",
+    "timeStamp": 1592094305572,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 81
+        "score": 76
       },
       {
         "id": "accessibility",
@@ -203,13 +203,13 @@
     "name": "Tolldirektoratet",
     "id": "toll",
     "url": "https://www.toll.no",
-    "date": "2020-05-24T00:27:18.792Z",
-    "timeStamp": 1590280038792,
+    "date": "2020-06-14T00:25:18.138Z",
+    "timeStamp": 1592094318138,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 56
+        "score": 46
       },
       {
         "id": "accessibility",
@@ -221,7 +221,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 77
+        "score": 85
       },
       {
         "id": "seo",
@@ -243,19 +243,19 @@
     "name": "Statistisk sentralbyrå",
     "id": "ssb",
     "url": "https://www.ssb.no",
-    "date": "2020-05-24T00:27:30.881Z",
-    "timeStamp": 1590280050881,
+    "date": "2020-06-14T00:25:30.279Z",
+    "timeStamp": 1592094330279,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 42
+        "score": 48
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 98,
+        "score": 96,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -283,25 +283,25 @@
     "name": "Statens strålevern",
     "id": "nrpa",
     "url": "https://www.nrpa.no",
-    "date": "2020-05-24T00:27:45.267Z",
-    "timeStamp": 1590280065267,
+    "date": "2020-06-14T00:25:44.956Z",
+    "timeStamp": 1592094344956,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 45
+        "score": 77
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 88,
+        "score": 87,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 77
+        "score": 85
       },
       {
         "id": "seo",
@@ -323,25 +323,25 @@
     "name": "Statens sivilrettsforvaltning",
     "id": "sivilrett",
     "url": "https://www.sivilrett.no",
-    "date": "2020-05-24T00:27:59.909Z",
-    "timeStamp": 1590280079909,
+    "date": "2020-06-14T00:25:58.509Z",
+    "timeStamp": 1592094358509,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 90
+        "score": 81
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 76,
+        "score": 78,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 62
+        "score": 54
       },
       {
         "id": "seo",
@@ -353,8 +353,7 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "score": 50,
-        "grade": "D",
+        "grade": "",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -363,25 +362,25 @@
     "name": "Statens legemiddelverk",
     "id": "legemiddelverket",
     "url": "https://legemiddelverket.no",
-    "date": "2020-05-24T00:28:09.565Z",
-    "timeStamp": 1590280089565,
+    "date": "2020-06-14T00:26:14.635Z",
+    "timeStamp": 1592094374635,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 16
+        "score": 35
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 81,
+        "score": 84,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -403,13 +402,13 @@
     "name": "Statens kartverk",
     "id": "kartverket",
     "url": "https://www.kartverket.no",
-    "date": "2020-05-24T00:28:23.596Z",
-    "timeStamp": 1590280103596,
+    "date": "2020-06-14T00:26:30.423Z",
+    "timeStamp": 1592094390423,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 23
+        "score": 21
       },
       {
         "id": "accessibility",
@@ -421,7 +420,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 69
+        "score": 77
       },
       {
         "id": "seo",
@@ -443,19 +442,19 @@
     "name": "Statens jernbanetilsyn",
     "id": "sjt",
     "url": "https://www.sjt.no",
-    "date": "2020-05-24T00:28:39.435Z",
-    "timeStamp": 1590280119435,
+    "date": "2020-06-14T00:26:54.981Z",
+    "timeStamp": 1592094414981,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 64
+        "score": 87
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 78,
+        "score": 84,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -483,19 +482,19 @@
     "name": "Statens helsetilsyn",
     "id": "helsetilsynet",
     "url": "https://www.helsetilsynet.no",
-    "date": "2020-05-24T00:28:50.963Z",
-    "timeStamp": 1590280130963,
+    "date": "2020-06-14T00:27:06.918Z",
+    "timeStamp": 1592094426918,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 58
+        "score": 63
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 90,
+        "score": 92,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -523,25 +522,25 @@
     "name": "Statens havarikommisjon for transport",
     "id": "aibn",
     "url": "https://www.aibn.no",
-    "date": "2020-05-24T00:29:03.555Z",
-    "timeStamp": 1590280143555,
+    "date": "2020-06-14T00:27:19.616Z",
+    "timeStamp": 1592094439616,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 78
+        "score": 72
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 96,
+        "score": 97,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 69
+        "score": 77
       },
       {
         "id": "seo",
@@ -563,19 +562,19 @@
     "name": "Skattedirektoratet",
     "id": "skatteetaten",
     "url": "https://www.skatteetaten.no",
-    "date": "2020-05-24T00:29:14.067Z",
-    "timeStamp": 1590280154067,
+    "date": "2020-06-14T00:27:29.815Z",
+    "timeStamp": 1592094449815,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 90
+        "score": 79
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
+        "score": 98,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -603,19 +602,19 @@
     "name": "Sjøfartsdirektoratet",
     "id": "sjofartsdir",
     "url": "https://www.sjofartsdir.no",
-    "date": "2020-05-24T00:29:23.272Z",
-    "timeStamp": 1590280163272,
+    "date": "2020-06-14T00:27:39.402Z",
+    "timeStamp": 1592094459402,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 36
+        "score": 46
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 80,
+        "score": 84,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -643,13 +642,13 @@
     "name": "Riksantikvaren",
     "id": "riksantikvaren",
     "url": "https://www.riksantikvaren.no",
-    "date": "2020-05-24T00:29:41.641Z",
-    "timeStamp": 1590280181641,
+    "date": "2020-06-14T00:27:57.469Z",
+    "timeStamp": 1592094477469,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 36
+        "score": 61
       },
       {
         "id": "accessibility",
@@ -661,7 +660,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 77
+        "score": 85
       },
       {
         "id": "seo",
@@ -683,13 +682,13 @@
     "name": "Politidirektoratet",
     "id": "politi",
     "url": "https://www.politi.no",
-    "date": "2020-05-24T00:29:58.008Z",
-    "timeStamp": 1590280198008,
+    "date": "2020-06-14T00:28:14.958Z",
+    "timeStamp": 1592094494958,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 54
+        "score": 69
       },
       {
         "id": "accessibility",
@@ -723,13 +722,13 @@
     "name": "Petroleumstilsynet",
     "id": "ptil",
     "url": "http://www.ptil.no",
-    "date": "2020-05-24T00:30:13.138Z",
-    "timeStamp": 1590280213138,
+    "date": "2020-06-14T00:28:28.606Z",
+    "timeStamp": 1592094508606,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 54
       },
       {
         "id": "accessibility",
@@ -763,25 +762,25 @@
     "name": "Pensjonstrygden for sjømenn",
     "id": "pts",
     "url": "https://www.pts.no",
-    "date": "2020-05-24T00:30:27.516Z",
-    "timeStamp": 1590280227516,
+    "date": "2020-06-14T00:28:46.598Z",
+    "timeStamp": 1592094526598,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 65
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
+        "score": 95,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 77
       },
       {
         "id": "seo",
@@ -803,19 +802,19 @@
     "name": "Patentstyret",
     "id": "patentstyret",
     "url": "https://www.patentstyret.no",
-    "date": "2020-05-24T00:30:39.571Z",
-    "timeStamp": 1590280239571,
+    "date": "2020-06-14T00:29:00.734Z",
+    "timeStamp": 1592094540734,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 51
+        "score": 58
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 92,
+        "score": 95,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -843,19 +842,19 @@
     "name": "Oljedirektoratet",
     "id": "npd",
     "url": "https://www.npd.no",
-    "date": "2020-05-24T00:30:52.779Z",
-    "timeStamp": 1590280252779,
+    "date": "2020-06-14T00:29:14.875Z",
+    "timeStamp": 1592094554875,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 60
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 93,
+        "score": 94,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -883,25 +882,25 @@
     "name": "Norsk polarinstitutt",
     "id": "npolar",
     "url": "https://npolar.no",
-    "date": "2020-05-24T00:31:03.388Z",
-    "timeStamp": 1590280263388,
+    "date": "2020-06-14T00:29:27.171Z",
+    "timeStamp": 1592094567171,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 4
+        "score": 28
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 87,
+        "score": 88,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 85
       },
       {
         "id": "seo",
@@ -923,25 +922,25 @@
     "name": "Norsk pasientskadeerstatning",
     "id": "npe",
     "url": "https://www.npe.no",
-    "date": "2020-05-24T00:31:26.631Z",
-    "timeStamp": 1590280286631,
+    "date": "2020-06-14T00:29:52.061Z",
+    "timeStamp": 1592094592061,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 71
+        "score": 88
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 72,
+        "score": 82,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -963,25 +962,25 @@
     "name": "Norsk kulturråd",
     "id": "kulturrad",
     "url": "https://www.kulturradet.no",
-    "date": "2020-05-24T00:31:40.845Z",
-    "timeStamp": 1590280300845,
+    "date": "2020-06-14T00:30:03.178Z",
+    "timeStamp": 1592094603178,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 18
+        "score": 35
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 90,
+        "score": 0,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -1003,25 +1002,25 @@
     "name": "Norsk filminstitutt",
     "id": "nfi",
     "url": "https://www.nfi.no",
-    "date": "2020-05-24T00:31:58.634Z",
-    "timeStamp": 1590280318634,
+    "date": "2020-06-14T00:30:18.846Z",
+    "timeStamp": 1592094618846,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 60
+        "score": 51
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 88,
+        "score": 87,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 69
+        "score": 77
       },
       {
         "id": "seo",
@@ -1043,25 +1042,25 @@
     "name": "Norsk akkreditering",
     "id": "akkreditert",
     "url": "https://www.akkreditert.no",
-    "date": "2020-05-24T00:32:09.833Z",
-    "timeStamp": 1590280329833,
+    "date": "2020-06-14T00:30:34.584Z",
+    "timeStamp": 1592094634584,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 57
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 71,
+        "score": 76,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -1083,25 +1082,25 @@
     "name": "Norges vassdrags- og energidirektorat",
     "id": "nve",
     "url": "https://www.nve.no",
-    "date": "2020-05-24T00:32:20.394Z",
-    "timeStamp": 1590280340394,
+    "date": "2020-06-14T00:30:47.372Z",
+    "timeStamp": 1592094647372,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 37
+        "score": 35
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 50,
+        "score": 57,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -1123,19 +1122,19 @@
     "name": "Nasjonalt organ for kvalitet i utdanningen",
     "id": "nokut",
     "url": "https://www.nokut.no",
-    "date": "2020-05-24T00:32:38.434Z",
-    "timeStamp": 1590280358434,
+    "date": "2020-06-14T00:31:04.217Z",
+    "timeStamp": 1592094664217,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 64
+        "score": 79
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 95,
+        "score": 97,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1163,25 +1162,25 @@
     "name": "Nasjonal sikkerhetsmyndighet",
     "id": "nsmstat",
     "url": "https://www.nsm.stat.no",
-    "date": "2020-05-24T00:32:48.906Z",
-    "timeStamp": 1590280368906,
+    "date": "2020-06-14T00:31:16.435Z",
+    "timeStamp": 1592094676435,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 80
+        "score": 46
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 80,
+        "score": 85,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 77
+        "score": 85
       },
       {
         "id": "seo",
@@ -1203,19 +1202,19 @@
     "name": "Nasjonal kommunikasjonsmyndighet",
     "id": "nkom",
     "url": "https://www.nkom.no",
-    "date": "2020-05-24T00:33:00.652Z",
-    "timeStamp": 1590280380652,
+    "date": "2020-06-14T00:31:29.623Z",
+    "timeStamp": 1592094689623,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 92
+        "score": 84
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 97,
+        "score": 96,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1243,13 +1242,13 @@
     "name": "Miljødirektoratet",
     "id": "miljodir",
     "url": "https://www.miljodir.no",
-    "date": "2020-05-24T00:33:09.730Z",
-    "timeStamp": 1590280389730,
+    "date": "2020-06-14T00:31:39.607Z",
+    "timeStamp": 1592094699607,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 17
+        "score": 41
       },
       {
         "id": "accessibility",
@@ -1261,7 +1260,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 92
       },
       {
         "id": "seo",
@@ -1283,19 +1282,19 @@
     "name": "Medietilsynet",
     "id": "medietilsynet",
     "url": "https://www.medietilsynet.no",
-    "date": "2020-05-24T00:33:21.491Z",
-    "timeStamp": 1590280401491,
+    "date": "2020-06-14T00:31:56.464Z",
+    "timeStamp": 1592094716464,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 68
+        "score": 49
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 91,
+        "score": 90,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1307,7 +1306,7 @@
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 92,
+        "score": 90,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
@@ -1323,13 +1322,13 @@
     "name": "Mattilsynet",
     "id": "mattilsynet",
     "url": "https://www.mattilsynet.no",
-    "date": "2020-05-24T00:33:33.350Z",
-    "timeStamp": 1590280413350,
+    "date": "2020-06-14T00:32:20.552Z",
+    "timeStamp": 1592094740552,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 64
+        "score": 66
       },
       {
         "id": "accessibility",
@@ -1363,31 +1362,31 @@
     "name": "Luftfartstilsynet",
     "id": "luftfartstilsynet",
     "url": "https://www.luftfartstilsynet.no",
-    "date": "2020-05-24T00:33:47.915Z",
-    "timeStamp": 1590280427915,
+    "date": "2020-06-14T00:32:34.729Z",
+    "timeStamp": 1592094754729,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 46
+        "score": 50
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 73,
+        "score": 77,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 77
       },
       {
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 82,
+        "score": 81,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
@@ -1403,13 +1402,13 @@
     "name": "Lotteri- og stiftelsestilsynet",
     "id": "lottstift",
     "url": "https://lottstift.no",
-    "date": "2020-05-24T00:34:05.916Z",
-    "timeStamp": 1590280445916,
+    "date": "2020-06-14T00:32:52.836Z",
+    "timeStamp": 1592094772836,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 82
+        "score": 76
       },
       {
         "id": "accessibility",
@@ -1443,25 +1442,25 @@
     "name": "Lånekassen",
     "id": "lanekassen",
     "url": "https://www.lanekassen.no",
-    "date": "2020-05-24T00:34:18.555Z",
-    "timeStamp": 1590280458555,
+    "date": "2020-06-14T00:33:07.252Z",
+    "timeStamp": 1592094787252,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 70
+        "score": 63
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 96,
+        "score": 97,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 77
+        "score": 69
       },
       {
         "id": "seo",
@@ -1483,19 +1482,19 @@
     "name": "Kystverket",
     "id": "kystverket",
     "url": "https://www.kystverket.no",
-    "date": "2020-05-24T00:34:45.759Z",
-    "timeStamp": 1590280485759,
+    "date": "2020-06-14T00:33:36.012Z",
+    "timeStamp": 1592094816012,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 33
+        "score": 22
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 65,
+        "score": 73,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1523,19 +1522,19 @@
     "name": "Kunst i offentlige rom",
     "id": "koro",
     "url": "https://www.koro.no",
-    "date": "2020-05-24T00:35:03.819Z",
-    "timeStamp": 1590280503819,
+    "date": "2020-06-14T00:33:59.337Z",
+    "timeStamp": 1592094839337,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 10
+        "score": 25
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 92,
+        "score": 93,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1563,19 +1562,19 @@
     "name": "Kulturtanken",
     "id": "kulturtanken",
     "url": "https://www.kulturtanken.no",
-    "date": "2020-05-24T00:35:18.941Z",
-    "timeStamp": 1590280518941,
+    "date": "2020-06-14T00:34:14.192Z",
+    "timeStamp": 1592094854192,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 21
+        "score": 14
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 84,
+        "score": 90,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1603,19 +1602,19 @@
     "name": "Kriminalomsorgsdirektoratet",
     "id": "kriminalomsorgen",
     "url": "https://www.kriminalomsorgen.no",
-    "date": "2020-05-24T00:35:32.886Z",
-    "timeStamp": 1590280532886,
+    "date": "2020-06-14T00:34:31.924Z",
+    "timeStamp": 1592094871924,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 80
+        "score": 83
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 64,
+        "score": 65,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1643,13 +1642,13 @@
     "name": "Konkurransetilsynet",
     "id": "konkurransetilsynet",
     "url": "https://www.konkurransetilsynet.no",
-    "date": "2020-05-24T00:35:45.878Z",
-    "timeStamp": 1590280545878,
+    "date": "2020-06-14T00:34:52.477Z",
+    "timeStamp": 1592094892477,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 65
+        "score": 62
       },
       {
         "id": "accessibility",
@@ -1661,7 +1660,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -1683,13 +1682,13 @@
     "name": "Kompetanse Norge",
     "id": "kompetansenorge",
     "url": "https://www.kompetansenorge.no",
-    "date": "2020-05-24T00:36:00.229Z",
-    "timeStamp": 1590280560229,
+    "date": "2020-06-14T00:35:10.525Z",
+    "timeStamp": 1592094910525,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 34
+        "score": 41
       },
       {
         "id": "accessibility",
@@ -1701,7 +1700,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 85
       },
       {
         "id": "seo",
@@ -1723,13 +1722,13 @@
     "name": "Justervesenet",
     "id": "justervesenet",
     "url": "https://www.justervesenet.no",
-    "date": "2020-05-24T00:36:11.642Z",
-    "timeStamp": 1590280571642,
+    "date": "2020-06-14T00:35:25.035Z",
+    "timeStamp": 1592094925035,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 37
+        "score": 50
       },
       {
         "id": "accessibility",
@@ -1741,7 +1740,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -1763,19 +1762,19 @@
     "name": "Jernbanedirektoratet",
     "id": "jernbanedirektoratet",
     "url": "https://www.jernbanedirektoratet.no",
-    "date": "2020-05-24T00:36:26.452Z",
-    "timeStamp": 1590280586452,
+    "date": "2020-06-14T00:35:39.118Z",
+    "timeStamp": 1592094939118,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 70
+        "score": 62
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 98,
+        "score": 0,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1803,13 +1802,13 @@
     "name": "Integrerings- og mangfoldsdirektoratet",
     "id": "imdi",
     "url": "https://www.imdi.no",
-    "date": "2020-05-24T00:36:37.323Z",
-    "timeStamp": 1590280597323,
+    "date": "2020-06-14T00:35:51.763Z",
+    "timeStamp": 1592094951763,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 50
+        "score": 56
       },
       {
         "id": "accessibility",
@@ -1821,7 +1820,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 85
       },
       {
         "id": "seo",
@@ -1843,13 +1842,13 @@
     "name": "Husbanken",
     "id": "husbanken",
     "url": "https://www.husbanken.no",
-    "date": "2020-05-24T00:36:48.089Z",
-    "timeStamp": 1590280608089,
+    "date": "2020-06-14T00:36:04.592Z",
+    "timeStamp": 1592094964592,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 87
+        "score": 78
       },
       {
         "id": "accessibility",
@@ -1883,19 +1882,19 @@
     "name": "Helsedirektoratet",
     "id": "helsedirektoratet",
     "url": "https://helsedirektoratet.no",
-    "date": "2020-05-24T00:37:03.278Z",
-    "timeStamp": 1590280623278,
+    "date": "2020-06-14T00:36:20.087Z",
+    "timeStamp": 1592094980087,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 40
+        "score": 31
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 88,
+        "score": 82,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -1907,14 +1906,14 @@
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 92,
+        "score": 90,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
         "id": "securityheaders",
         "title": "Security",
-        "score": 50,
-        "grade": "D",
+        "score": 65,
+        "grade": "C",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -1923,13 +1922,13 @@
     "name": "Forbrukertilsynet",
     "id": "forbrukertilsynet",
     "url": "https://www.forbrukertilsynet.no",
-    "date": "2020-05-24T00:37:19.974Z",
-    "timeStamp": 1590280639974,
+    "date": "2020-06-14T00:36:38.543Z",
+    "timeStamp": 1592094998543,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 80
+        "score": 73
       },
       {
         "id": "accessibility",
@@ -1960,22 +1959,62 @@
     ]
   },
   {
-    "name": "Fiskeridirektoratet",
-    "id": "fiskeridir",
-    "url": "https://www.fiskeridir.no",
-    "date": "2020-05-24T00:37:34.157Z",
-    "timeStamp": 1590280654157,
+    "name": "Folkehelseinstituttet",
+    "id": "fhi",
+    "url": "https://www.fhi.no",
+    "date": "2020-06-14T00:36:50.571Z",
+    "timeStamp": 1592095010571,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 17
+        "score": 60
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 85,
+        "score": 90,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 92
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 92,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "name": "Fiskeridirektoratet",
+    "id": "fiskeridir",
+    "url": "https://www.fiskeridir.no",
+    "date": "2020-06-14T00:37:17.538Z",
+    "timeStamp": 1592095037538,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 37
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 90,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -2003,25 +2042,25 @@
     "name": "Finanstilsynet",
     "id": "finanstilsynet",
     "url": "https://www.finanstilsynet.no",
-    "date": "2020-05-24T00:37:48.128Z",
-    "timeStamp": 1590280668128,
+    "date": "2020-06-14T00:37:34.923Z",
+    "timeStamp": 1592095054923,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 77
+        "score": 56
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
+        "score": 92,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 92
       },
       {
         "id": "seo",
@@ -2043,13 +2082,13 @@
     "name": "Direktoratet for utviklingssamarbeid",
     "id": "norad",
     "url": "https://www.norad.no",
-    "date": "2020-05-24T00:37:58.340Z",
-    "timeStamp": 1590280678340,
+    "date": "2020-06-14T00:37:48.607Z",
+    "timeStamp": 1592095068607,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 41
+        "score": 35
       },
       {
         "id": "accessibility",
@@ -2061,7 +2100,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 62
+        "score": 69
       },
       {
         "id": "seo",
@@ -2083,19 +2122,19 @@
     "name": "Direktoratet for samfunnssikkerhet og beredskap",
     "id": "dsb",
     "url": "https://www.dsb.no",
-    "date": "2020-05-24T00:38:09.094Z",
-    "timeStamp": 1590280689094,
+    "date": "2020-06-14T00:38:03.497Z",
+    "timeStamp": 1592095083497,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 77
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 93,
+        "score": 95,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -2123,25 +2162,25 @@
     "name": "Direktoratet for økonomistyring",
     "id": "dfo",
     "url": "https://www.dfo.no",
-    "date": "2020-05-24T00:38:21.449Z",
-    "timeStamp": 1590280701449,
+    "date": "2020-06-14T00:38:19.794Z",
+    "timeStamp": 1592095099794,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 54
+        "score": 48
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 82,
+        "score": 85,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 92
       },
       {
         "id": "seo",
@@ -2163,19 +2202,19 @@
     "name": "Direktoratet for mineralforvaltning med Bergmesteren for Svalbard",
     "id": "dirmin",
     "url": "https://www.dirmin.no",
-    "date": "2020-05-24T00:38:32.718Z",
-    "timeStamp": 1590280712718,
+    "date": "2020-06-14T00:38:32.626Z",
+    "timeStamp": 1592095112626,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 77
+        "score": 79
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 75,
+        "score": 81,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -2203,25 +2242,25 @@
     "name": "Direktoratet for internasjonalisering og kvalitetsutvikling i høyere utdanning",
     "id": "diku",
     "url": "https://www.diku.no",
-    "date": "2020-05-24T00:38:45.262Z",
-    "timeStamp": 1590280725262,
+    "date": "2020-06-14T00:38:48.632Z",
+    "timeStamp": 1592095128632,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 67
+        "score": 70
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 95,
+        "score": 96,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 85
       },
       {
         "id": "seo",
@@ -2243,25 +2282,25 @@
     "name": "Direktoratet for IKT og fellestjenester i høyere utdanning og forskning",
     "id": "unit",
     "url": "https://www.unit.no",
-    "date": "2020-05-24T00:38:56.161Z",
-    "timeStamp": 1590280736161,
+    "date": "2020-06-14T00:39:01.480Z",
+    "timeStamp": 1592095141480,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 14
+        "score": 36
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 91,
+        "score": 92,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 100
+        "score": 92
       },
       {
         "id": "seo",
@@ -2283,13 +2322,13 @@
     "name": "Direktoratet for forvaltning og ikt",
     "id": "difi",
     "url": "https://www.difi.no",
-    "date": "2020-05-24T00:39:13.557Z",
-    "timeStamp": 1590280753557,
+    "date": "2020-06-14T00:39:18.105Z",
+    "timeStamp": 1592095158105,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 62
       },
       {
         "id": "accessibility",
@@ -2323,19 +2362,19 @@
     "name": "Direktoratet for e-helse",
     "id": "ehelse",
     "url": "https://www.ehelse.no",
-    "date": "2020-05-24T00:39:30.208Z",
-    "timeStamp": 1590280770208,
+    "date": "2020-06-14T00:39:30.467Z",
+    "timeStamp": 1592095170467,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 71
+        "score": 66
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 36,
+        "score": 55,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -2363,25 +2402,25 @@
     "name": "Direktoratet for byggkvalitet",
     "id": "dibk",
     "url": "https://www.dibk.no",
-    "date": "2020-05-24T00:39:45.550Z",
-    "timeStamp": 1590280785550,
+    "date": "2020-06-14T00:39:50.438Z",
+    "timeStamp": 1592095190438,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 51
+        "score": 45
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 77,
+        "score": 72,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 77
       },
       {
         "id": "seo",
@@ -2403,13 +2442,13 @@
     "name": "Datatilsynet",
     "id": "datatilsynet",
     "url": "https://www.datatilsynet.no",
-    "date": "2020-05-24T00:39:55.960Z",
-    "timeStamp": 1590280795960,
+    "date": "2020-06-14T00:40:04.855Z",
+    "timeStamp": 1592095204855,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 74
+        "score": 90
       },
       {
         "id": "accessibility",
@@ -2421,7 +2460,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 69
       },
       {
         "id": "seo",
@@ -2443,25 +2482,25 @@
     "name": "Brønnøysundregistrene",
     "id": "brreg",
     "url": "https://www.brreg.no",
-    "date": "2020-05-24T00:40:07.883Z",
-    "timeStamp": 1590280807883,
+    "date": "2020-06-14T00:40:21.089Z",
+    "timeStamp": 1592095221089,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 52
+        "score": 58
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 98,
+        "score": 0,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 85
       },
       {
         "id": "seo",
@@ -2483,25 +2522,25 @@
     "name": "Barne-, ungdoms- og familiedirektoratet",
     "id": "bufetat",
     "url": "https://www.bufdir.no",
-    "date": "2020-05-24T00:40:21.351Z",
-    "timeStamp": 1590280821351,
+    "date": "2020-06-14T00:40:37.332Z",
+    "timeStamp": 1592095237332,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 11
+        "score": 14
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 75,
+        "score": 78,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 100
+        "score": 92
       },
       {
         "id": "seo",
@@ -2523,19 +2562,19 @@
     "name": "Arbeidstilsynet",
     "id": "arbeidstilsynet",
     "url": "https://www.arbeidstilsynet.no",
-    "date": "2020-05-24T00:40:37.345Z",
-    "timeStamp": 1590280837345,
+    "date": "2020-06-14T00:40:55.692Z",
+    "timeStamp": 1592095255692,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 91
+        "score": 90
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 82,
+        "score": 89,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -2563,25 +2602,25 @@
     "name": "Arbeids- og velferdsdirektoratet",
     "id": "",
     "url": "https://www.nav.no",
-    "date": "2020-05-24T00:40:46.648Z",
-    "timeStamp": 1590280846648,
+    "date": "2020-06-14T00:41:07.555Z",
+    "timeStamp": 1592095267555,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 22
+        "score": 19
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 79,
+        "score": 93,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 100
+        "score": 92
       },
       {
         "id": "seo",
