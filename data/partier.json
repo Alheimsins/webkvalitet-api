@@ -3,13 +3,13 @@
     "name": "Fremskrittspartiet",
     "id": "frp",
     "url": "https://www.frp.no",
-    "date": "2020-08-04T00:26:50.297Z",
-    "timeStamp": 1596500810297,
+    "date": "2020-08-05T00:26:46.129Z",
+    "timeStamp": 1596587206129,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 27
+        "score": 30
       },
       {
         "id": "accessibility",
@@ -43,13 +43,13 @@
     "name": "Venstre",
     "id": "venstre",
     "url": "https://www.venstre.no",
-    "date": "2020-08-04T00:27:10.441Z",
-    "timeStamp": 1596500830441,
+    "date": "2020-08-05T00:27:03.218Z",
+    "timeStamp": 1596587223218,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 31
+        "score": 35
       },
       {
         "id": "accessibility",
@@ -61,7 +61,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 92
       },
       {
         "id": "seo",
@@ -83,13 +83,13 @@
     "name": "Høyre",
     "id": "hoyre",
     "url": "https://hoyre.no",
-    "date": "2020-08-04T00:27:27.262Z",
-    "timeStamp": 1596500847262,
+    "date": "2020-08-05T00:27:19.641Z",
+    "timeStamp": 1596587239641,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 26
+        "score": 19
       },
       {
         "id": "accessibility",
@@ -123,13 +123,13 @@
     "name": "Miljøpartiet De Grønne",
     "id": "mdg",
     "url": "https://mdg.no",
-    "date": "2020-08-04T00:27:53.324Z",
-    "timeStamp": 1596500873324,
+    "date": "2020-08-05T00:27:45.678Z",
+    "timeStamp": 1596587265678,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 13
+        "score": 17
       },
       {
         "id": "accessibility",
@@ -163,13 +163,13 @@
     "name": "Senterpartiet",
     "id": "sp",
     "url": "https://www.senterpartiet.no",
-    "date": "2020-08-04T00:28:10.497Z",
-    "timeStamp": 1596500890497,
+    "date": "2020-08-05T00:28:01.264Z",
+    "timeStamp": 1596587281264,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 30
+        "score": 27
       },
       {
         "id": "accessibility",
@@ -203,13 +203,13 @@
     "name": "Kristelig Folkeparti",
     "id": "krf",
     "url": "https://www.krf.no",
-    "date": "2020-08-04T00:28:24.483Z",
-    "timeStamp": 1596500904483,
+    "date": "2020-08-05T00:28:16.172Z",
+    "timeStamp": 1596587296172,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 48
+        "score": 53
       },
       {
         "id": "accessibility",
@@ -240,16 +240,56 @@
     ]
   },
   {
-    "name": "Arbeiderpartiet",
-    "id": "ap",
-    "url": "https://www.arbeiderpartiet.no",
-    "date": "2020-08-04T00:29:01.045Z",
-    "timeStamp": 1596500941045,
+    "name": "SV",
+    "id": "sv",
+    "url": "https://www.sv.no",
+    "date": "2020-08-05T00:28:35.515Z",
+    "timeStamp": 1596587315515,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 25
+        "score": 54
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 82,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 85
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 91,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 95,
+        "grade": "A",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "name": "Arbeiderpartiet",
+    "id": "ap",
+    "url": "https://www.arbeiderpartiet.no",
+    "date": "2020-08-05T00:28:51.097Z",
+    "timeStamp": 1596587331097,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 37
       },
       {
         "id": "accessibility",
@@ -283,13 +323,13 @@
     "id": "raudt",
     "name": "Rødt",
     "url": "https://xn--rdt-0na.no",
-    "date": "2020-08-04T00:29:15.733Z",
-    "timeStamp": 1596500955733,
+    "date": "2020-08-05T00:29:05.384Z",
+    "timeStamp": 1596587345384,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 31
+        "score": 23
       },
       {
         "id": "accessibility",
@@ -315,47 +355,6 @@
         "title": "Security",
         "score": 50,
         "grade": "D",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "name": "SV",
-    "id": "sv",
-    "url": "https://www.sv.no",
-    "date": "2020-08-04T00:29:47.422Z",
-    "timeStamp": 1596500987422,
-    "retries": 1,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 56
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 82,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 85
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 91,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 95,
-        "grade": "A",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
