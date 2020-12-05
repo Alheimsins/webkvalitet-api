@@ -3,13 +3,13 @@
     "name": "Viken",
     "id": "viken",
     "url": "https://www.viken.no/",
-    "date": "2020-12-04T00:37:19.356Z",
-    "timeStamp": 1607042239356,
+    "date": "2020-12-05T00:37:48.736Z",
+    "timeStamp": 1607128668736,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 47
+        "score": 52
       },
       {
         "id": "accessibility",
@@ -43,13 +43,13 @@
     "name": "Vestland",
     "id": "vestland",
     "url": "https://www.vestlandfylke.no/",
-    "date": "2020-12-04T00:37:34.438Z",
-    "timeStamp": 1607042254438,
+    "date": "2020-12-05T00:38:04.795Z",
+    "timeStamp": 1607128684795,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 60
+        "score": 69
       },
       {
         "id": "accessibility",
@@ -80,16 +80,56 @@
     ]
   },
   {
-    "name": "Troms og Finnmark",
-    "id": "trfi",
-    "url": "https://www.tffk.no/",
-    "date": "2020-12-04T00:37:54.429Z",
-    "timeStamp": 1607042274429,
+    "name": "Vestfold og Telemark",
+    "id": "vtfk",
+    "url": "https://www.vtfk.no/",
+    "date": "2020-12-05T00:38:19.633Z",
+    "timeStamp": 1607128699633,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 26
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 98,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 79
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 92,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 50,
+        "grade": "D",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "name": "Troms og Finnmark",
+    "id": "trfi",
+    "url": "https://www.tffk.no/",
+    "date": "2020-12-05T00:38:37.492Z",
+    "timeStamp": 1607128717492,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 68
       },
       {
         "id": "accessibility",
@@ -123,13 +163,13 @@
     "name": "Trøndelag",
     "id": "trfk",
     "url": "https://www.trondelagfylke.no/",
-    "date": "2020-12-04T00:38:07.150Z",
-    "timeStamp": 1607042287150,
+    "date": "2020-12-05T00:38:50.643Z",
+    "timeStamp": 1607128730643,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 77
+        "score": 55
       },
       {
         "id": "accessibility",
@@ -153,8 +193,7 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "score": 95,
-        "grade": "A",
+        "grade": "",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -163,13 +202,13 @@
     "name": "Rogaland",
     "id": "rfk",
     "url": "http://www.rogfk.no/",
-    "date": "2020-12-04T00:38:25.215Z",
-    "timeStamp": 1607042305215,
+    "date": "2020-12-05T00:39:13.428Z",
+    "timeStamp": 1607128753428,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 50
+        "score": 51
       },
       {
         "id": "accessibility",
@@ -203,13 +242,13 @@
     "name": "Oslo",
     "id": "osl",
     "url": "https://www.oslo.kommune.no/",
-    "date": "2020-12-04T00:38:41.043Z",
-    "timeStamp": 1607042321043,
+    "date": "2020-12-05T00:39:27.544Z",
+    "timeStamp": 1607128767544,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 65
+        "score": 33
       },
       {
         "id": "accessibility",
@@ -243,13 +282,13 @@
     "name": "Nordland",
     "id": "nfk",
     "url": "https://www.nfk.no/",
-    "date": "2020-12-04T00:39:01.479Z",
-    "timeStamp": 1607042341479,
+    "date": "2020-12-05T00:39:48.128Z",
+    "timeStamp": 1607128788128,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 71
+        "score": 62
       },
       {
         "id": "accessibility",
@@ -283,13 +322,13 @@
     "name": "Møre og Romsdal",
     "id": "mrfk",
     "url": "https://mrfylke.no/",
-    "date": "2020-12-04T00:39:15.857Z",
-    "timeStamp": 1607042355857,
+    "date": "2020-12-05T00:40:08.833Z",
+    "timeStamp": 1607128808833,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 57
       },
       {
         "id": "accessibility",
@@ -323,13 +362,13 @@
     "name": "Innlandet",
     "id": "innlandet",
     "url": "https://www.innlandetfylke.no/",
-    "date": "2020-12-04T00:39:34.046Z",
-    "timeStamp": 1607042374046,
+    "date": "2020-12-05T00:40:25.471Z",
+    "timeStamp": 1607128825471,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 54
+        "score": 58
       },
       {
         "id": "accessibility",
@@ -363,13 +402,13 @@
     "name": "Agder",
     "id": "agder",
     "url": "https://www.agderfk.no/",
-    "date": "2020-12-04T00:39:47.871Z",
-    "timeStamp": 1607042387871,
+    "date": "2020-12-05T00:40:38.036Z",
+    "timeStamp": 1607128838036,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 63
+        "score": 64
       },
       {
         "id": "accessibility",
