@@ -3,13 +3,13 @@
     "name": "Ålesund",
     "id": "alesund",
     "url": "https://www.alesund.kommune.no",
-    "date": "2020-12-20T01:06:47.512Z",
-    "timeStamp": 1608426407512,
+    "date": "2020-12-21T01:09:50.631Z",
+    "timeStamp": 1608512990631,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 36
+        "score": 40
       },
       {
         "id": "accessibility",
@@ -40,16 +40,56 @@
     ]
   },
   {
-    "name": "Tromsø",
-    "id": "tromso",
-    "url": "https://www.tromso.kommune.no",
-    "date": "2020-12-20T01:07:27.834Z",
-    "timeStamp": 1608426447834,
+    "name": "Trondheim",
+    "id": "trondheim",
+    "url": "https://www.trondheim.kommune.no",
+    "date": "2020-12-21T01:10:12.778Z",
+    "timeStamp": 1608513012778,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 67
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 100,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 86
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 100,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "name": "Tromsø",
+    "id": "tromso",
+    "url": "https://www.tromso.kommune.no",
+    "date": "2020-12-21T01:10:26.238Z",
+    "timeStamp": 1608513026238,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 74
       },
       {
         "id": "accessibility",
@@ -61,7 +101,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 71
+        "score": 79
       },
       {
         "id": "seo",
@@ -83,13 +123,13 @@
     "name": "Stavanger",
     "id": "stavanger",
     "url": "https://www.stavanger.kommune.no",
-    "date": "2020-12-20T01:08:06.330Z",
-    "timeStamp": 1608426486330,
+    "date": "2020-12-21T01:10:44.482Z",
+    "timeStamp": 1608513044482,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 48
       },
       {
         "id": "accessibility",
@@ -120,16 +160,56 @@
     ]
   },
   {
-    "name": "Oslo",
-    "id": "oslo",
-    "url": "https://www.oslo.kommune.no",
-    "date": "2020-12-20T01:08:51.990Z",
-    "timeStamp": 1608426531990,
+    "name": "Sandnes",
+    "id": "sandnes",
+    "url": "https://www.sandnes.kommune.no",
+    "date": "2020-12-21T01:11:02.049Z",
+    "timeStamp": 1608513062049,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 10
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 76,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 79
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 83,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 0,
+        "grade": "F",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "name": "Oslo",
+    "id": "oslo",
+    "url": "https://www.oslo.kommune.no",
+    "date": "2020-12-21T01:11:26.481Z",
+    "timeStamp": 1608513086481,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 68
       },
       {
         "id": "accessibility",
@@ -163,13 +243,13 @@
     "name": "Narvik",
     "id": "narvik",
     "url": "https://www.narvik.kommune.no",
-    "date": "2020-12-20T01:09:28.826Z",
-    "timeStamp": 1608426568826,
+    "date": "2020-12-21T01:11:55.200Z",
+    "timeStamp": 1608513115200,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 37
+        "score": 40
       },
       {
         "id": "accessibility",
@@ -203,13 +283,13 @@
     "name": "Kristiansand",
     "id": "kristiansand",
     "url": "https://www.kristiansand.kommune.no",
-    "date": "2020-12-20T01:09:52.076Z",
-    "timeStamp": 1608426592076,
+    "date": "2020-12-21T01:12:08.715Z",
+    "timeStamp": 1608513128715,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 18
+        "score": 19
       },
       {
         "id": "accessibility",
@@ -243,13 +323,13 @@
     "id": "halden",
     "name": "Halden",
     "url": "https://www.halden.kommune.no",
-    "date": "2020-12-20T01:10:23.920Z",
-    "timeStamp": 1608426623920,
+    "date": "2020-12-21T01:12:27.818Z",
+    "timeStamp": 1608513147818,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 63
+        "score": 72
       },
       {
         "id": "accessibility",
@@ -283,13 +363,13 @@
     "id": "drammen",
     "name": "Drammen",
     "url": "https://www.drammen.kommune.no",
-    "date": "2020-12-20T01:10:42.600Z",
-    "timeStamp": 1608426642600,
+    "date": "2020-12-21T01:12:41.345Z",
+    "timeStamp": 1608513161345,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 35
+        "score": 39
       },
       {
         "id": "accessibility",
@@ -323,13 +403,13 @@
     "id": "barum",
     "name": "Bærum",
     "url": "https://www.baerum.kommune.no",
-    "date": "2020-12-20T01:11:02.236Z",
-    "timeStamp": 1608426662236,
+    "date": "2020-12-21T01:12:57.882Z",
+    "timeStamp": 1608513177882,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 84
+        "score": 68
       },
       {
         "id": "accessibility",
@@ -363,13 +443,13 @@
     "id": "bodo",
     "name": "Bodø",
     "url": "https://bodo.kommune.no",
-    "date": "2020-12-20T01:11:14.384Z",
-    "timeStamp": 1608426674384,
+    "date": "2020-12-21T01:13:13.364Z",
+    "timeStamp": 1608513193364,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 29
+        "score": 33
       },
       {
         "id": "accessibility",
@@ -403,13 +483,13 @@
     "id": "bergen",
     "name": "Bergen",
     "url": "https://www.bergen.kommune.no",
-    "date": "2020-12-20T01:11:35.878Z",
-    "timeStamp": 1608426695878,
+    "date": "2020-12-21T01:13:35.223Z",
+    "timeStamp": 1608513215223,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 51
+        "score": 45
       },
       {
         "id": "accessibility",
@@ -443,19 +523,19 @@
     "id": "asker",
     "name": "Asker",
     "url": "https://www.asker.kommune.no",
-    "date": "2020-12-20T01:11:52.082Z",
-    "timeStamp": 1608426712082,
+    "date": "2020-12-21T01:13:52.803Z",
+    "timeStamp": 1608513232803,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 57
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 94,
+        "score": 92,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -475,88 +555,6 @@
         "title": "Security",
         "score": 50,
         "grade": "D",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "name": "Trondheim",
-    "id": "trondheim",
-    "url": "https://www.trondheim.kommune.no",
-    "date": "2020-12-20T01:12:42.803Z",
-    "timeStamp": 1608426762803,
-    "retries": 0,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 64
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 86
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 100,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 0,
-        "grade": "F",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "name": "Sandnes",
-    "id": "sandnes",
-    "url": "https://www.sandnes.kommune.no",
-    "date": "2020-12-20T01:13:17.393Z",
-    "timeStamp": 1608426797393,
-    "retries": 0,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 11
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 76,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 79
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 83,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 0,
-        "grade": "F",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
