@@ -3,13 +3,13 @@
     "id": "arbeidsituasjonpermittert",
     "name": "arbeid/permittert",
     "url": "https://www.nav.no/arbeid/permittert",
-    "date": "2021-02-03T01:10:51.131Z",
-    "timeStamp": 1612314651131,
+    "date": "2021-02-04T01:04:42.459Z",
+    "timeStamp": 1612400682459,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 37
+        "score": 27
       },
       {
         "id": "accessibility",
@@ -43,13 +43,13 @@
     "id": "design",
     "name": "design.nav.no",
     "url": "https://design.nav.no",
-    "date": "2021-02-03T01:11:10.978Z",
-    "timeStamp": 1612314670978,
+    "date": "2021-02-04T01:05:02.128Z",
+    "timeStamp": 1612400702128,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 87
+        "score": 80
       },
       {
         "id": "accessibility",
@@ -83,13 +83,13 @@
     "id": "deterdinpensjon",
     "name": "www.deterdinpensjon.no",
     "url": "http://www.deterdinpensjon.no",
-    "date": "2021-02-03T01:11:28.682Z",
-    "timeStamp": 1612314688682,
+    "date": "2021-02-04T01:05:21.041Z",
+    "timeStamp": 1612400721041,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 86
+        "score": 85
       },
       {
         "id": "accessibility",
@@ -123,8 +123,8 @@
     "id": "jobbsokerkompetanse",
     "name": "jobbsokerkompetanse.nav.no",
     "url": "https://jobbsokerkompetanse.nav.no",
-    "date": "2021-02-03T01:11:41.308Z",
-    "timeStamp": 1612314701308,
+    "date": "2021-02-04T01:05:33.843Z",
+    "timeStamp": 1612400733843,
     "result": [
       {
         "id": "performance",
@@ -163,13 +163,13 @@
     "id": "veiviserarbeidssoker",
     "name": "veiviserarbeidssoker.nav.no",
     "url": "https://veiviserarbeidssoker.nav.no",
-    "date": "2021-02-03T01:12:05.629Z",
-    "timeStamp": 1612314725629,
+    "date": "2021-02-04T01:05:51.744Z",
+    "timeStamp": 1612400751744,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 21
+        "score": 19
       },
       {
         "id": "accessibility",
@@ -203,8 +203,8 @@
     "id": "veiledearbeidssoker",
     "name": "veiledearbeidssoker.nav.no",
     "url": "https://veiledearbeidssoker.nav.no",
-    "date": "2021-02-03T01:12:31.010Z",
-    "timeStamp": 1612314751010,
+    "date": "2021-02-04T01:06:26.677Z",
+    "timeStamp": 1612400786677,
     "result": [
       {
         "id": "performance",
@@ -243,88 +243,8 @@
     "id": "arbeidssokerregistrering",
     "name": "arbeidssokerregistrering.nav.no",
     "url": "https://arbeidssokerregistrering.nav.no/start",
-    "date": "2021-02-03T01:12:49.078Z",
-    "timeStamp": 1612314769078,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 19
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 93
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 92,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 80,
-        "grade": "B",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "id": "arbeidsplassen",
-    "name": "arbeidsplassen.nav.no",
-    "url": "https://arbeidsplassen.nav.no",
-    "date": "2021-02-03T01:13:06.838Z",
-    "timeStamp": 1612314786838,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 91
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 93
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 100,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 95,
-        "grade": "A",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "id": "familie",
-    "name": "familie.nav.no",
-    "url": "https://familie.nav.no",
-    "date": "2021-02-03T01:13:47.668Z",
-    "timeStamp": 1612314827668,
+    "date": "2021-02-04T01:06:44.363Z",
+    "timeStamp": 1612400804363,
     "result": [
       {
         "id": "performance",
@@ -360,11 +280,91 @@
     ]
   },
   {
+    "id": "arbeidsplassen",
+    "name": "arbeidsplassen.nav.no",
+    "url": "https://arbeidsplassen.nav.no",
+    "date": "2021-02-04T01:07:01.858Z",
+    "timeStamp": 1612400821858,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 84
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 100,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 93
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 100,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 95,
+        "grade": "A",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "id": "familie",
+    "name": "familie.nav.no",
+    "url": "https://familie.nav.no",
+    "date": "2021-02-04T01:07:15.207Z",
+    "timeStamp": 1612400835207,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 15
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 100,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 93
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is optimized for search engine results ranking. There are additional factors Lighthouse does not check that may affect your search ranking. [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 92,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 80,
+        "grade": "B",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
     "id": "dagpengekalkulator",
     "name": "Dagpengekalkulator",
     "url": "https://www.nav.no/arbeid/dagpenger/kalkulator",
-    "date": "2021-02-03T01:14:23.409Z",
-    "timeStamp": 1612314863409,
+    "date": "2021-02-04T01:07:47.418Z",
+    "timeStamp": 1612400867418,
     "result": [
       {
         "id": "performance",
@@ -403,13 +403,13 @@
     "id": "navno",
     "name": "nav.no",
     "url": "https://www.nav.no/Forsiden",
-    "date": "2021-02-03T01:14:54.315Z",
-    "timeStamp": 1612314894315,
+    "date": "2021-02-04T01:08:04.521Z",
+    "timeStamp": 1612400884521,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 19
+        "score": 18
       },
       {
         "id": "accessibility",
