@@ -3,13 +3,13 @@
     "name": "Viken",
     "id": "viken",
     "url": "https://www.viken.no/",
-    "date": "2021-11-30T00:57:21.661Z",
-    "timeStamp": 1638233841661,
+    "date": "2021-12-01T00:58:55.506Z",
+    "timeStamp": 1638320335506,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 51
+        "score": 49
       },
       {
         "id": "accessibility",
@@ -43,13 +43,13 @@
     "name": "Vestland",
     "id": "vestland",
     "url": "https://www.vestlandfylke.no/",
-    "date": "2021-11-30T00:58:03.867Z",
-    "timeStamp": 1638233883867,
+    "date": "2021-12-01T00:59:26.555Z",
+    "timeStamp": 1638320366555,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 54
+        "score": 50
       },
       {
         "id": "accessibility",
@@ -83,13 +83,13 @@
     "name": "Vestfold og Telemark",
     "id": "vtfk",
     "url": "https://www.vtfk.no/",
-    "date": "2021-11-30T00:58:58.771Z",
-    "timeStamp": 1638233938771,
+    "date": "2021-12-01T01:00:06.456Z",
+    "timeStamp": 1638320406456,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 24
+        "score": 19
       },
       {
         "id": "accessibility",
@@ -123,13 +123,13 @@
     "name": "Troms og Finnmark",
     "id": "trfi",
     "url": "https://www.tffk.no/",
-    "date": "2021-11-30T00:59:45.237Z",
-    "timeStamp": 1638233985237,
+    "date": "2021-12-01T01:01:11.458Z",
+    "timeStamp": 1638320471458,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 60
+        "score": 47
       },
       {
         "id": "accessibility",
@@ -163,13 +163,13 @@
     "name": "Trøndelag",
     "id": "trfk",
     "url": "https://www.trondelagfylke.no/",
-    "date": "2021-11-30T01:00:23.357Z",
-    "timeStamp": 1638234023357,
+    "date": "2021-12-01T01:01:57.325Z",
+    "timeStamp": 1638320517325,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 48
       },
       {
         "id": "accessibility",
@@ -203,13 +203,13 @@
     "name": "Rogaland",
     "id": "rfk",
     "url": "http://www.rogfk.no/",
-    "date": "2021-11-30T01:01:02.173Z",
-    "timeStamp": 1638234062173,
+    "date": "2021-12-01T01:02:16.892Z",
+    "timeStamp": 1638320536892,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 45
+        "score": 72
       },
       {
         "id": "accessibility",
@@ -240,56 +240,16 @@
     ]
   },
   {
-    "name": "Oslo",
-    "id": "osl",
-    "url": "https://www.oslo.kommune.no/",
-    "date": "2021-11-30T01:01:38.081Z",
-    "timeStamp": 1638234098081,
+    "name": "Nordland",
+    "id": "nfk",
+    "url": "https://www.nfk.no/",
+    "date": "2021-12-01T01:02:57.861Z",
+    "timeStamp": 1638320577861,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
         "score": 69
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 91,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 92
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 100,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 50,
-        "grade": "D",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "name": "Nordland",
-    "id": "nfk",
-    "url": "https://www.nfk.no/",
-    "date": "2021-11-30T01:02:17.818Z",
-    "timeStamp": 1638234137818,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 73
       },
       {
         "id": "accessibility",
@@ -323,13 +283,13 @@
     "name": "Møre og Romsdal",
     "id": "mrfk",
     "url": "https://mrfylke.no/",
-    "date": "2021-11-30T01:02:46.212Z",
-    "timeStamp": 1638234166212,
+    "date": "2021-12-01T01:03:14.815Z",
+    "timeStamp": 1638320594815,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 63
       },
       {
         "id": "accessibility",
@@ -363,13 +323,13 @@
     "name": "Innlandet",
     "id": "innlandet",
     "url": "https://www.innlandetfylke.no/",
-    "date": "2021-11-30T01:03:08.513Z",
-    "timeStamp": 1638234188513,
+    "date": "2021-12-01T01:03:34.545Z",
+    "timeStamp": 1638320614545,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 63
+        "score": 61
       },
       {
         "id": "accessibility",
@@ -403,13 +363,13 @@
     "name": "Agder",
     "id": "agder",
     "url": "https://www.agderfk.no/",
-    "date": "2021-11-30T01:03:27.478Z",
-    "timeStamp": 1638234207478,
+    "date": "2021-12-01T01:03:54.350Z",
+    "timeStamp": 1638320634350,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 67
+        "score": 68
       },
       {
         "id": "accessibility",
