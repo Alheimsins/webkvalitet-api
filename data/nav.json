@@ -3,13 +3,13 @@
     "id": "arbeidsituasjonpermittert",
     "name": "arbeid/permittert",
     "url": "https://www.nav.no/arbeid/permittert",
-    "date": "2022-01-06T01:49:29.223Z",
-    "timeStamp": 1641433769223,
+    "date": "2022-01-07T01:50:22.232Z",
+    "timeStamp": 1641520222232,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 21
+        "score": 19
       },
       {
         "id": "accessibility",
@@ -43,13 +43,13 @@
     "id": "design",
     "name": "design.nav.no",
     "url": "https://design.nav.no",
-    "date": "2022-01-06T01:49:59.597Z",
-    "timeStamp": 1641433799597,
+    "date": "2022-01-07T01:50:53.893Z",
+    "timeStamp": 1641520253893,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 38
+        "score": 35
       },
       {
         "id": "accessibility",
@@ -83,13 +83,13 @@
     "id": "deterdinpensjon",
     "name": "www.deterdinpensjon.no",
     "url": "http://www.deterdinpensjon.no",
-    "date": "2022-01-06T01:50:20.662Z",
-    "timeStamp": 1641433820662,
+    "date": "2022-01-07T01:51:21.376Z",
+    "timeStamp": 1641520281376,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 73
       },
       {
         "id": "accessibility",
@@ -101,7 +101,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 85
+        "score": 92
       },
       {
         "id": "seo",
@@ -123,13 +123,13 @@
     "id": "jobbsokerkompetanse",
     "name": "jobbsokerkompetanse.nav.no",
     "url": "https://jobbsokerkompetanse.nav.no",
-    "date": "2022-01-06T01:50:40.573Z",
-    "timeStamp": 1641433840573,
+    "date": "2022-01-07T01:51:35.851Z",
+    "timeStamp": 1641520295851,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 12
+        "score": 10
       },
       {
         "id": "accessibility",
@@ -163,13 +163,13 @@
     "id": "veiviserarbeidssoker",
     "name": "veiviserarbeidssoker.nav.no",
     "url": "https://veiviserarbeidssoker.nav.no",
-    "date": "2022-01-06T01:51:02.730Z",
-    "timeStamp": 1641433862730,
+    "date": "2022-01-07T01:53:07.040Z",
+    "timeStamp": 1641520387040,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 11
+        "score": 13
       },
       {
         "id": "accessibility",
@@ -200,16 +200,56 @@
     ]
   },
   {
-    "id": "arbeidssokerregistrering",
-    "name": "arbeidssokerregistrering.nav.no",
-    "url": "https://arbeidssokerregistrering.nav.no/start",
-    "date": "2022-01-06T01:51:49.671Z",
-    "timeStamp": 1641433909671,
+    "id": "veiledearbeidssoker",
+    "name": "veiledearbeidssoker.nav.no",
+    "url": "https://veiledearbeidssoker.nav.no",
+    "date": "2022-01-07T01:53:32.175Z",
+    "timeStamp": 1641520412175,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 18
+        "score": 24
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 100,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 92
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 85,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 80,
+        "grade": "B",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "id": "arbeidssokerregistrering",
+    "name": "arbeidssokerregistrering.nav.no",
+    "url": "https://arbeidssokerregistrering.nav.no/start",
+    "date": "2022-01-07T01:54:30.926Z",
+    "timeStamp": 1641520470926,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 20
       },
       {
         "id": "accessibility",
@@ -243,13 +283,13 @@
     "id": "arbeidsplassen",
     "name": "arbeidsplassen.nav.no",
     "url": "https://arbeidsplassen.nav.no",
-    "date": "2022-01-06T01:52:19.315Z",
-    "timeStamp": 1641433939315,
+    "date": "2022-01-07T01:54:59.074Z",
+    "timeStamp": 1641520499074,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 97
+        "score": 95
       },
       {
         "id": "accessibility",
@@ -283,13 +323,13 @@
     "id": "familie",
     "name": "familie.nav.no",
     "url": "https://familie.nav.no",
-    "date": "2022-01-06T01:53:02.031Z",
-    "timeStamp": 1641433982031,
+    "date": "2022-01-07T01:55:45.567Z",
+    "timeStamp": 1641520545567,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 3
+        "score": 4
       },
       {
         "id": "accessibility",
@@ -323,8 +363,8 @@
     "id": "dagpengekalkulator",
     "name": "Dagpengekalkulator",
     "url": "https://www.nav.no/arbeid/dagpenger/kalkulator",
-    "date": "2022-01-06T01:54:27.996Z",
-    "timeStamp": 1641434067996,
+    "date": "2022-01-07T01:56:29.517Z",
+    "timeStamp": 1641520589517,
     "result": [
       {
         "id": "performance",
@@ -363,13 +403,13 @@
     "id": "navno",
     "name": "nav.no",
     "url": "https://www.nav.no/Forsiden",
-    "date": "2022-01-06T01:54:52.682Z",
-    "timeStamp": 1641434092682,
+    "date": "2022-01-07T01:56:50.194Z",
+    "timeStamp": 1641520610194,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 17
+        "score": 19
       },
       {
         "id": "accessibility",
@@ -388,47 +428,6 @@
         "title": "SEO",
         "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
         "score": 100,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 80,
-        "grade": "B",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "id": "veiledearbeidssoker",
-    "name": "veiledearbeidssoker.nav.no",
-    "url": "https://veiledearbeidssoker.nav.no",
-    "date": "2022-01-06T01:57:02.918Z",
-    "timeStamp": 1641434222918,
-    "retries": 2,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 23
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 92
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 85,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
