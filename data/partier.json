@@ -3,8 +3,8 @@
     "name": "Fremskrittspartiet",
     "id": "frp",
     "url": "https://www.frp.no",
-    "date": "2022-01-13T00:57:27.557Z",
-    "timeStamp": 1642035447557,
+    "date": "2022-01-14T00:56:45.608Z",
+    "timeStamp": 1642121805608,
     "result": [
       {
         "id": "performance",
@@ -43,13 +43,13 @@
     "name": "Venstre",
     "id": "venstre",
     "url": "https://www.venstre.no",
-    "date": "2022-01-13T00:57:44.694Z",
-    "timeStamp": 1642035464694,
+    "date": "2022-01-14T00:57:18.499Z",
+    "timeStamp": 1642121838499,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 47
+        "score": 36
       },
       {
         "id": "accessibility",
@@ -61,7 +61,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 100
       },
       {
         "id": "seo",
@@ -83,13 +83,13 @@
     "name": "Høyre",
     "id": "hoyre",
     "url": "https://hoyre.no",
-    "date": "2022-01-13T00:58:03.726Z",
-    "timeStamp": 1642035483726,
+    "date": "2022-01-14T00:57:50.925Z",
+    "timeStamp": 1642121870925,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 39
+        "score": 43
       },
       {
         "id": "accessibility",
@@ -123,13 +123,13 @@
     "name": "Miljøpartiet De Grønne",
     "id": "mdg",
     "url": "https://mdg.no",
-    "date": "2022-01-13T00:58:28.006Z",
-    "timeStamp": 1642035508006,
+    "date": "2022-01-14T00:58:17.690Z",
+    "timeStamp": 1642121897690,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 9
+        "score": 11
       },
       {
         "id": "accessibility",
@@ -163,13 +163,13 @@
     "name": "Senterpartiet",
     "id": "sp",
     "url": "https://www.senterpartiet.no",
-    "date": "2022-01-13T00:59:08.083Z",
-    "timeStamp": 1642035548083,
+    "date": "2022-01-14T00:59:45.777Z",
+    "timeStamp": 1642121985777,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 45
       },
       {
         "id": "accessibility",
@@ -203,13 +203,13 @@
     "name": "Kristelig Folkeparti",
     "id": "krf",
     "url": "https://www.krf.no",
-    "date": "2022-01-13T01:00:31.205Z",
-    "timeStamp": 1642035631205,
+    "date": "2022-01-14T01:00:31.609Z",
+    "timeStamp": 1642122031609,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 62
+        "score": 66
       },
       {
         "id": "accessibility",
@@ -240,56 +240,16 @@
     ]
   },
   {
-    "name": "SV",
-    "id": "sv",
-    "url": "https://www.sv.no",
-    "date": "2022-01-13T01:00:57.001Z",
-    "timeStamp": 1642035657001,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 93
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 97,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 100
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 93,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 95,
-        "grade": "A",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
     "name": "Arbeiderpartiet",
     "id": "ap",
     "url": "https://www.arbeiderpartiet.no",
-    "date": "2022-01-13T01:01:21.781Z",
-    "timeStamp": 1642035681781,
+    "date": "2022-01-14T01:02:00.553Z",
+    "timeStamp": 1642122120553,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 44
+        "score": 35
       },
       {
         "id": "accessibility",
@@ -320,16 +280,58 @@
     ]
   },
   {
-    "id": "raudt",
-    "name": "Rødt",
-    "url": "https://xn--rdt-0na.no",
-    "date": "2022-01-13T01:02:03.125Z",
-    "timeStamp": 1642035723125,
+    "name": "SV",
+    "id": "sv",
+    "url": "https://www.sv.no",
+    "date": "2022-01-14T01:03:28.739Z",
+    "timeStamp": 1642122208739,
+    "retries": 0,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 66
+        "score": 86
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 97,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 100
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 93,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 95,
+        "grade": "A",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "id": "raudt",
+    "name": "Rødt",
+    "url": "https://xn--rdt-0na.no",
+    "date": "2022-01-14T01:03:48.261Z",
+    "timeStamp": 1642122228261,
+    "retries": 0,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 56
       },
       {
         "id": "accessibility",
