@@ -3,13 +3,13 @@
     "name": "Viken",
     "id": "viken",
     "url": "https://www.viken.no/",
-    "date": "2022-01-15T00:59:33.869Z",
-    "timeStamp": 1642208373869,
+    "date": "2022-01-16T01:04:02.742Z",
+    "timeStamp": 1642295042742,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 52
+        "score": 45
       },
       {
         "id": "accessibility",
@@ -33,7 +33,8 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "grade": "",
+        "score": 50,
+        "grade": "D",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -42,13 +43,13 @@
     "name": "Vestland",
     "id": "vestland",
     "url": "https://www.vestlandfylke.no/",
-    "date": "2022-01-15T01:00:13.471Z",
-    "timeStamp": 1642208413471,
+    "date": "2022-01-16T01:04:30.794Z",
+    "timeStamp": 1642295070794,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 52
+        "score": 48
       },
       {
         "id": "accessibility",
@@ -82,8 +83,8 @@
     "name": "Vestfold og Telemark",
     "id": "vtfk",
     "url": "https://www.vtfk.no/",
-    "date": "2022-01-15T01:00:39.041Z",
-    "timeStamp": 1642208439041,
+    "date": "2022-01-16T01:04:54.825Z",
+    "timeStamp": 1642295094825,
     "result": [
       {
         "id": "performance",
@@ -119,55 +120,16 @@
     ]
   },
   {
-    "name": "Troms og Finnmark",
-    "id": "trfi",
-    "url": "https://www.tffk.no/",
-    "date": "2022-01-15T01:01:21.653Z",
-    "timeStamp": 1642208481653,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 62
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 97,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 92
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 92,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "grade": "",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
     "name": "Trøndelag",
     "id": "trfk",
     "url": "https://www.trondelagfylke.no/",
-    "date": "2022-01-15T01:01:44.168Z",
-    "timeStamp": 1642208504168,
+    "date": "2022-01-16T01:06:10.273Z",
+    "timeStamp": 1642295170273,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 40
+        "score": 51
       },
       {
         "id": "accessibility",
@@ -201,13 +163,13 @@
     "name": "Rogaland",
     "id": "rfk",
     "url": "http://www.rogfk.no/",
-    "date": "2022-01-15T01:02:09.880Z",
-    "timeStamp": 1642208529880,
+    "date": "2022-01-16T01:07:04.051Z",
+    "timeStamp": 1642295224051,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 68
       },
       {
         "id": "accessibility",
@@ -231,7 +193,8 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "grade": "",
+        "score": 50,
+        "grade": "D",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -240,13 +203,13 @@
     "name": "Oslo",
     "id": "osl",
     "url": "https://www.oslo.kommune.no/",
-    "date": "2022-01-15T01:02:29.881Z",
-    "timeStamp": 1642208549881,
+    "date": "2022-01-16T01:07:25.650Z",
+    "timeStamp": 1642295245650,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 80
+        "score": 67
       },
       {
         "id": "accessibility",
@@ -258,7 +221,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 100
+        "score": 92
       },
       {
         "id": "seo",
@@ -280,13 +243,13 @@
     "name": "Nordland",
     "id": "nfk",
     "url": "https://www.nfk.no/",
-    "date": "2022-01-15T01:02:52.107Z",
-    "timeStamp": 1642208572107,
+    "date": "2022-01-16T01:08:15.484Z",
+    "timeStamp": 1642295295484,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 64
+        "score": 63
       },
       {
         "id": "accessibility",
@@ -320,8 +283,8 @@
     "name": "Møre og Romsdal",
     "id": "mrfk",
     "url": "https://mrfylke.no/",
-    "date": "2022-01-15T01:03:12.593Z",
-    "timeStamp": 1642208592593,
+    "date": "2022-01-16T01:08:35.688Z",
+    "timeStamp": 1642295315688,
     "result": [
       {
         "id": "performance",
@@ -360,13 +323,13 @@
     "name": "Innlandet",
     "id": "innlandet",
     "url": "https://www.innlandetfylke.no/",
-    "date": "2022-01-15T01:03:36.093Z",
-    "timeStamp": 1642208616093,
+    "date": "2022-01-16T01:09:00.226Z",
+    "timeStamp": 1642295340226,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 36
+        "score": 55
       },
       {
         "id": "accessibility",
@@ -390,7 +353,8 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "grade": "",
+        "score": 50,
+        "grade": "D",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -399,13 +363,13 @@
     "name": "Agder",
     "id": "agder",
     "url": "https://www.agderfk.no/",
-    "date": "2022-01-15T01:05:34.720Z",
-    "timeStamp": 1642208734720,
+    "date": "2022-01-16T01:09:30.729Z",
+    "timeStamp": 1642295370729,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 65
+        "score": 68
       },
       {
         "id": "accessibility",
@@ -429,7 +393,49 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "grade": "",
+        "score": 50,
+        "grade": "D",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "name": "Troms og Finnmark",
+    "id": "trfi",
+    "url": "https://www.tffk.no/",
+    "date": "2022-01-16T01:09:50.102Z",
+    "timeStamp": 1642295390102,
+    "retries": 0,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 66
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 97,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 92
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 92,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 50,
+        "grade": "D",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
