@@ -3,13 +3,13 @@
     "name": "Fremskrittspartiet",
     "id": "frp",
     "url": "https://www.frp.no",
-    "date": "2022-02-10T00:54:28.460Z",
-    "timeStamp": 1644454468460,
+    "date": "2022-02-11T00:58:46.629Z",
+    "timeStamp": 1644541126629,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 80
+        "score": 77
       },
       {
         "id": "accessibility",
@@ -21,13 +21,13 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 100
       },
       {
         "id": "seo",
         "title": "SEO",
         "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 97,
+        "score": 100,
         "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
       },
       {
@@ -43,25 +43,25 @@
     "name": "Venstre",
     "id": "venstre",
     "url": "https://www.venstre.no",
-    "date": "2022-02-10T00:54:49.038Z",
-    "timeStamp": 1644454489038,
+    "date": "2022-02-11T00:59:22.368Z",
+    "timeStamp": 1644541162368,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 43
+        "score": 51
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 90,
+        "score": 89,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 100
+        "score": 92
       },
       {
         "id": "seo",
@@ -83,13 +83,13 @@
     "name": "Høyre",
     "id": "hoyre",
     "url": "https://hoyre.no",
-    "date": "2022-02-10T00:55:24.854Z",
-    "timeStamp": 1644454524854,
+    "date": "2022-02-11T00:59:57.873Z",
+    "timeStamp": 1644541197873,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 45
+        "score": 37
       },
       {
         "id": "accessibility",
@@ -123,13 +123,13 @@
     "name": "Miljøpartiet De Grønne",
     "id": "mdg",
     "url": "https://mdg.no",
-    "date": "2022-02-10T00:55:55.765Z",
-    "timeStamp": 1644454555765,
+    "date": "2022-02-11T01:00:28.459Z",
+    "timeStamp": 1644541228459,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 9
+        "score": 11
       },
       {
         "id": "accessibility",
@@ -153,7 +153,8 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "grade": "",
+        "score": 50,
+        "grade": "D",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -162,13 +163,13 @@
     "name": "Senterpartiet",
     "id": "sp",
     "url": "https://www.senterpartiet.no",
-    "date": "2022-02-10T00:56:23.672Z",
-    "timeStamp": 1644454583672,
+    "date": "2022-02-11T01:01:12.626Z",
+    "timeStamp": 1644541272626,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 49
+        "score": 62
       },
       {
         "id": "accessibility",
@@ -192,7 +193,8 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "grade": "",
+        "score": 0,
+        "grade": "F",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -201,13 +203,13 @@
     "name": "Kristelig Folkeparti",
     "id": "krf",
     "url": "https://www.krf.no",
-    "date": "2022-02-10T00:56:54.703Z",
-    "timeStamp": 1644454614703,
+    "date": "2022-02-11T01:02:13.948Z",
+    "timeStamp": 1644541333948,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 62
+        "score": 58
       },
       {
         "id": "accessibility",
@@ -241,13 +243,13 @@
     "name": "SV",
     "id": "sv",
     "url": "https://www.sv.no",
-    "date": "2022-02-10T00:57:15.867Z",
-    "timeStamp": 1644454635867,
+    "date": "2022-02-11T01:02:53.085Z",
+    "timeStamp": 1644541373085,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 43
+        "score": 89
       },
       {
         "id": "accessibility",
@@ -281,13 +283,13 @@
     "name": "Arbeiderpartiet",
     "id": "ap",
     "url": "https://www.arbeiderpartiet.no",
-    "date": "2022-02-10T00:58:33.680Z",
-    "timeStamp": 1644454713680,
+    "date": "2022-02-11T01:03:12.193Z",
+    "timeStamp": 1644541392193,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 37
+        "score": 57
       },
       {
         "id": "accessibility",
@@ -321,13 +323,13 @@
     "id": "raudt",
     "name": "Rødt",
     "url": "https://xn--rdt-0na.no",
-    "date": "2022-02-10T00:59:08.850Z",
-    "timeStamp": 1644454748850,
+    "date": "2022-02-11T01:03:29.147Z",
+    "timeStamp": 1644541409147,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 63
+        "score": 56
       },
       {
         "id": "accessibility",
@@ -351,7 +353,8 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "grade": "",
+        "score": 95,
+        "grade": "A",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
