@@ -1,107 +1,28 @@
 [
   {
-    "name": "Fremskrittspartiet",
-    "id": "frp",
-    "url": "https://www.frp.no",
-    "date": "2022-02-25T01:00:38.471Z",
-    "timeStamp": 1645750838471,
+    "name": "Høyre",
+    "id": "hoyre",
+    "url": "https://hoyre.no",
+    "date": "2022-02-26T01:00:11.831Z",
+    "timeStamp": 1645837211831,
+    "retries": 2,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 79
+        "score": 45
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 98,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 100
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
         "score": 100,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 0,
-        "grade": "F",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "name": "Venstre",
-    "id": "venstre",
-    "url": "https://www.venstre.no",
-    "date": "2022-02-25T01:01:02.181Z",
-    "timeStamp": 1645750862181,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 16
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 89,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
         "id": "best-practices",
         "title": "Best Practices",
         "score": 92
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 100,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 50,
-        "grade": "D",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "name": "Høyre",
-    "id": "hoyre",
-    "url": "https://hoyre.no",
-    "date": "2022-02-25T01:02:32.778Z",
-    "timeStamp": 1645750952778,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 46
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 100,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 83
       },
       {
         "id": "seo",
@@ -123,13 +44,14 @@
     "name": "Miljøpartiet De Grønne",
     "id": "mdg",
     "url": "https://mdg.no",
-    "date": "2022-02-25T01:03:06.809Z",
-    "timeStamp": 1645750986809,
+    "date": "2022-02-26T01:00:38.655Z",
+    "timeStamp": 1645837238655,
+    "retries": 2,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 18
+        "score": 16
       },
       {
         "id": "accessibility",
@@ -163,13 +85,14 @@
     "name": "Senterpartiet",
     "id": "sp",
     "url": "https://www.senterpartiet.no",
-    "date": "2022-02-25T01:03:28.160Z",
-    "timeStamp": 1645751008160,
+    "date": "2022-02-26T01:01:11.100Z",
+    "timeStamp": 1645837271100,
+    "retries": 2,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 46
+        "score": 64
       },
       {
         "id": "accessibility",
@@ -203,13 +126,14 @@
     "name": "Kristelig Folkeparti",
     "id": "krf",
     "url": "https://www.krf.no",
-    "date": "2022-02-25T01:04:06.023Z",
-    "timeStamp": 1645751046023,
+    "date": "2022-02-26T01:01:41.589Z",
+    "timeStamp": 1645837301589,
+    "retries": 2,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 69
+        "score": 37
       },
       {
         "id": "accessibility",
@@ -233,7 +157,8 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "grade": "",
+        "score": 95,
+        "grade": "A",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -242,13 +167,14 @@
     "name": "SV",
     "id": "sv",
     "url": "https://www.sv.no",
-    "date": "2022-02-25T01:04:31.561Z",
-    "timeStamp": 1645751071561,
+    "date": "2022-02-26T01:02:16.962Z",
+    "timeStamp": 1645837336962,
+    "retries": 2,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 90
+        "score": 78
       },
       {
         "id": "accessibility",
@@ -260,7 +186,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 92
+        "score": 100
       },
       {
         "id": "seo",
@@ -282,13 +208,14 @@
     "name": "Arbeiderpartiet",
     "id": "ap",
     "url": "https://www.arbeiderpartiet.no",
-    "date": "2022-02-25T01:04:51.294Z",
-    "timeStamp": 1645751091294,
+    "date": "2022-02-26T01:02:46.822Z",
+    "timeStamp": 1645837366822,
+    "retries": 2,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 54
+        "score": 62
       },
       {
         "id": "accessibility",
@@ -322,8 +249,9 @@
     "id": "raudt",
     "name": "Rødt",
     "url": "https://xn--rdt-0na.no",
-    "date": "2022-02-25T01:05:08.857Z",
-    "timeStamp": 1645751108857,
+    "date": "2022-02-26T01:03:07.785Z",
+    "timeStamp": 1645837387785,
+    "retries": 2,
     "result": [
       {
         "id": "performance",
