@@ -3,13 +3,13 @@
     "name": "Viken",
     "id": "viken",
     "url": "https://www.viken.no/",
-    "date": "2022-03-06T01:04:36.195Z",
-    "timeStamp": 1646528676195,
+    "date": "2022-03-07T01:05:29.954Z",
+    "timeStamp": 1646615129954,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 47
+        "score": 48
       },
       {
         "id": "accessibility",
@@ -40,16 +40,56 @@
     ]
   },
   {
-    "name": "Vestfold og Telemark",
-    "id": "vtfk",
-    "url": "https://www.vtfk.no/",
-    "date": "2022-03-06T01:05:25.642Z",
-    "timeStamp": 1646528725642,
+    "name": "Vestland",
+    "id": "vestland",
+    "url": "https://www.vestlandfylke.no/",
+    "date": "2022-03-07T01:05:52.182Z",
+    "timeStamp": 1646615152182,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 18
+        "score": 67
+      },
+      {
+        "id": "accessibility",
+        "title": "Accessibility",
+        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
+        "score": 87,
+        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
+      },
+      {
+        "id": "best-practices",
+        "title": "Best Practices",
+        "score": 92
+      },
+      {
+        "id": "seo",
+        "title": "SEO",
+        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
+        "score": 84,
+        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
+      },
+      {
+        "id": "securityheaders",
+        "title": "Security",
+        "score": 95,
+        "grade": "A",
+        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
+      }
+    ]
+  },
+  {
+    "name": "Vestfold og Telemark",
+    "id": "vtfk",
+    "url": "https://www.vtfk.no/",
+    "date": "2022-03-07T01:06:22.556Z",
+    "timeStamp": 1646615182556,
+    "result": [
+      {
+        "id": "performance",
+        "title": "Performance",
+        "score": 15
       },
       {
         "id": "accessibility",
@@ -61,7 +101,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 75
+        "score": 67
       },
       {
         "id": "seo",
@@ -83,13 +123,13 @@
     "name": "Troms og Finnmark",
     "id": "trfi",
     "url": "https://www.tffk.no/",
-    "date": "2022-03-06T01:05:58.612Z",
-    "timeStamp": 1646528758612,
+    "date": "2022-03-07T01:07:59.321Z",
+    "timeStamp": 1646615279321,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 61
       },
       {
         "id": "accessibility",
@@ -123,13 +163,13 @@
     "name": "Trøndelag",
     "id": "trfk",
     "url": "https://www.trondelagfylke.no/",
-    "date": "2022-03-06T01:06:22.404Z",
-    "timeStamp": 1646528782404,
+    "date": "2022-03-07T01:08:16.114Z",
+    "timeStamp": 1646615296114,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 43
+        "score": 60
       },
       {
         "id": "accessibility",
@@ -163,13 +203,13 @@
     "name": "Rogaland",
     "id": "rfk",
     "url": "http://www.rogfk.no/",
-    "date": "2022-03-06T01:07:08.297Z",
-    "timeStamp": 1646528828297,
+    "date": "2022-03-07T01:08:36.194Z",
+    "timeStamp": 1646615316194,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 67
+        "score": 66
       },
       {
         "id": "accessibility",
@@ -203,19 +243,19 @@
     "name": "Oslo",
     "id": "osl",
     "url": "https://www.oslo.kommune.no/",
-    "date": "2022-03-06T01:07:37.292Z",
-    "timeStamp": 1646528857292,
+    "date": "2022-03-07T01:08:57.715Z",
+    "timeStamp": 1646615337715,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 64
+        "score": 75
       },
       {
         "id": "accessibility",
         "title": "Accessibility",
         "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 91,
+        "score": 100,
         "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
       },
       {
@@ -243,8 +283,8 @@
     "name": "Nordland",
     "id": "nfk",
     "url": "https://www.nfk.no/",
-    "date": "2022-03-06T01:08:22.082Z",
-    "timeStamp": 1646528902082,
+    "date": "2022-03-07T01:09:19.249Z",
+    "timeStamp": 1646615359249,
     "result": [
       {
         "id": "performance",
@@ -283,13 +323,13 @@
     "name": "Møre og Romsdal",
     "id": "mrfk",
     "url": "https://mrfylke.no/",
-    "date": "2022-03-06T01:08:38.131Z",
-    "timeStamp": 1646528918131,
+    "date": "2022-03-07T01:09:34.403Z",
+    "timeStamp": 1646615374403,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 61
+        "score": 60
       },
       {
         "id": "accessibility",
@@ -323,13 +363,13 @@
     "name": "Innlandet",
     "id": "innlandet",
     "url": "https://www.innlandetfylke.no/",
-    "date": "2022-03-06T01:09:12.084Z",
-    "timeStamp": 1646528952084,
+    "date": "2022-03-07T01:09:57.202Z",
+    "timeStamp": 1646615397202,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 56
+        "score": 60
       },
       {
         "id": "accessibility",
@@ -363,13 +403,13 @@
     "name": "Agder",
     "id": "agder",
     "url": "https://www.agderfk.no/",
-    "date": "2022-03-06T01:09:35.415Z",
-    "timeStamp": 1646528975415,
+    "date": "2022-03-07T01:10:17.098Z",
+    "timeStamp": 1646615417098,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 27
+        "score": 66
       },
       {
         "id": "accessibility",
@@ -395,47 +435,6 @@
         "title": "Security",
         "score": 50,
         "grade": "D",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
-    "name": "Vestland",
-    "id": "vestland",
-    "url": "https://www.vestlandfylke.no/",
-    "date": "2022-03-06T01:10:36.316Z",
-    "timeStamp": 1646529036316,
-    "retries": 0,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 66
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 87,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 100
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 84,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 95,
-        "grade": "A",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
