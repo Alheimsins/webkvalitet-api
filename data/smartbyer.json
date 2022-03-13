@@ -3,13 +3,13 @@
     "name": "Ålesund",
     "id": "alesund",
     "url": "https://www.alesund.kommune.no",
-    "date": "2022-03-12T01:32:52.999Z",
-    "timeStamp": 1647048772999,
+    "date": "2022-03-13T01:37:16.382Z",
+    "timeStamp": 1647135436382,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 46
+        "score": 45
       },
       {
         "id": "accessibility",
@@ -43,13 +43,13 @@
     "name": "Trondheim",
     "id": "trondheim",
     "url": "https://www.trondheim.kommune.no",
-    "date": "2022-03-12T01:34:22.421Z",
-    "timeStamp": 1647048862421,
+    "date": "2022-03-13T01:37:42.221Z",
+    "timeStamp": 1647135462221,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 72
+        "score": 63
       },
       {
         "id": "accessibility",
@@ -83,13 +83,13 @@
     "name": "Tromsø",
     "id": "tromso",
     "url": "https://www.tromso.kommune.no",
-    "date": "2022-03-12T01:34:40.096Z",
-    "timeStamp": 1647048880096,
+    "date": "2022-03-13T01:38:05.668Z",
+    "timeStamp": 1647135485668,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 27
+        "score": 23
       },
       {
         "id": "accessibility",
@@ -123,13 +123,13 @@
     "name": "Stavanger",
     "id": "stavanger",
     "url": "https://www.stavanger.kommune.no",
-    "date": "2022-03-12T01:35:01.882Z",
-    "timeStamp": 1647048901882,
+    "date": "2022-03-13T01:38:26.946Z",
+    "timeStamp": 1647135506946,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 49
+        "score": 44
       },
       {
         "id": "accessibility",
@@ -163,8 +163,8 @@
     "name": "Sandnes",
     "id": "sandnes",
     "url": "https://www.sandnes.kommune.no",
-    "date": "2022-03-12T01:35:45.566Z",
-    "timeStamp": 1647048945566,
+    "date": "2022-03-13T01:38:50.700Z",
+    "timeStamp": 1647135530700,
     "result": [
       {
         "id": "performance",
@@ -203,13 +203,13 @@
     "name": "Oslo",
     "id": "oslo",
     "url": "https://www.oslo.kommune.no",
-    "date": "2022-03-12T01:36:11.732Z",
-    "timeStamp": 1647048971732,
+    "date": "2022-03-13T01:39:16.149Z",
+    "timeStamp": 1647135556149,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 67
+        "score": 66
       },
       {
         "id": "accessibility",
@@ -243,13 +243,13 @@
     "name": "Narvik",
     "id": "narvik",
     "url": "https://www.narvik.kommune.no",
-    "date": "2022-03-12T01:36:33.502Z",
-    "timeStamp": 1647048993502,
+    "date": "2022-03-13T01:39:40.861Z",
+    "timeStamp": 1647135580861,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 67
+        "score": 75
       },
       {
         "id": "accessibility",
@@ -280,56 +280,16 @@
     ]
   },
   {
-    "name": "Kristiansand",
-    "id": "kristiansand",
-    "url": "https://www.kristiansand.kommune.no",
-    "date": "2022-03-12T01:36:50.479Z",
-    "timeStamp": 1647049010479,
-    "result": [
-      {
-        "id": "performance",
-        "title": "Performance",
-        "score": 23
-      },
-      {
-        "id": "accessibility",
-        "title": "Accessibility",
-        "description": "These checks highlight opportunities to [improve the accessibility of your web app](https://developers.google.com/web/fundamentals/accessibility). Only a subset of accessibility issues can be automatically detected so manual testing is also encouraged.",
-        "score": 97,
-        "manualDescription": "These items address areas which an automated testing tool cannot cover. Learn more in our guide on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review)."
-      },
-      {
-        "id": "best-practices",
-        "title": "Best Practices",
-        "score": 75
-      },
-      {
-        "id": "seo",
-        "title": "SEO",
-        "description": "These checks ensure that your page is following basic search engine optimization advice. There are many additional factors Lighthouse does not score here that may affect your search ranking, including performance on [Core Web Vitals](https://web.dev/learn-web-vitals/). [Learn more](https://support.google.com/webmasters/answer/35769).",
-        "score": 81,
-        "manualDescription": "Run these additional validators on your site to check additional SEO best practices."
-      },
-      {
-        "id": "securityheaders",
-        "title": "Security",
-        "score": 0,
-        "grade": "F",
-        "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
-      }
-    ]
-  },
-  {
     "id": "halden",
     "name": "Halden",
     "url": "https://www.halden.kommune.no",
-    "date": "2022-03-12T01:37:16.740Z",
-    "timeStamp": 1647049036740,
+    "date": "2022-03-13T01:40:15.828Z",
+    "timeStamp": 1647135615828,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 30
+        "score": 36
       },
       {
         "id": "accessibility",
@@ -353,8 +313,7 @@
       {
         "id": "securityheaders",
         "title": "Security",
-        "score": 80,
-        "grade": "B",
+        "grade": "",
         "description": "Security Headers https://securityheaders.com is created by Scott Helme https://scotthelme.co.uk/ to drive up the usage of security based headers across the web."
       }
     ]
@@ -363,13 +322,13 @@
     "id": "drammen",
     "name": "Drammen",
     "url": "https://www.drammen.kommune.no",
-    "date": "2022-03-12T01:37:40.228Z",
-    "timeStamp": 1647049060228,
+    "date": "2022-03-13T01:40:42.845Z",
+    "timeStamp": 1647135642845,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 72
+        "score": 83
       },
       {
         "id": "accessibility",
@@ -403,13 +362,13 @@
     "id": "barum",
     "name": "Bærum",
     "url": "https://www.baerum.kommune.no",
-    "date": "2022-03-12T01:37:57.216Z",
-    "timeStamp": 1647049077216,
+    "date": "2022-03-13T01:40:59.994Z",
+    "timeStamp": 1647135659994,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 32
+        "score": 36
       },
       {
         "id": "accessibility",
@@ -443,13 +402,13 @@
     "id": "bodo",
     "name": "Bodø",
     "url": "https://bodo.kommune.no",
-    "date": "2022-03-12T01:38:20.798Z",
-    "timeStamp": 1647049100798,
+    "date": "2022-03-13T01:41:22.637Z",
+    "timeStamp": 1647135682637,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 54
+        "score": 59
       },
       {
         "id": "accessibility",
@@ -483,13 +442,13 @@
     "id": "bergen",
     "name": "Bergen",
     "url": "https://www.bergen.kommune.no",
-    "date": "2022-03-12T01:38:44.849Z",
-    "timeStamp": 1647049124849,
+    "date": "2022-03-13T01:41:46.514Z",
+    "timeStamp": 1647135706514,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 53
+        "score": 46
       },
       {
         "id": "accessibility",
@@ -523,13 +482,13 @@
     "id": "asker",
     "name": "Asker",
     "url": "https://www.asker.kommune.no",
-    "date": "2022-03-12T01:39:10.026Z",
-    "timeStamp": 1647049150026,
+    "date": "2022-03-13T01:42:16.242Z",
+    "timeStamp": 1647135736242,
     "result": [
       {
         "id": "performance",
         "title": "Performance",
-        "score": 55
+        "score": 40
       },
       {
         "id": "accessibility",
@@ -541,7 +500,7 @@
       {
         "id": "best-practices",
         "title": "Best Practices",
-        "score": 83
+        "score": 92
       },
       {
         "id": "seo",
